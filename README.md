@@ -1,170 +1,184 @@
-# MVT GUI
+# MVT-Dashboard
 
 A graphical user interface for the [Mobile Verification Toolkit (MVT)](https://github.com/mvt-project/mvt), which helps with conducting forensics of mobile devices to detect potential compromise.
 
 ## Overview
 
-This GUI provides a user-friendly interface to MVT's command-line tools, making it easier to perform mobile device forensic analysis without having to remember complex command-line arguments. **NEW**: Now includes comprehensive PDF report generation for professional security analysis documentation.
+This GUI provides a user-friendly interface to MVT's command-line tools, making it easier to perform mobile device forensic analysis without having to remember complex command-line arguments.
 
-![MVT GUI Screenshot](screenshot.png)
+![MVT GUI Screenshot](_img/MVT-dashboard.png)
 
 ## Features
 
-- **iOS Analysis**:
-  - Decrypt iOS backups
-  - Extract backup keys
-  - Check iOS backups for signs of compromise
-  - Analyze iOS filesystem dumps
-  - Check for IOCs (Indicators of Compromise)
-  - **NEW**: Generate professional PDF security reports
+### iOS Analysis
+- **Decrypt iOS Backup** - Decrypt an encrypted iOS backup using the provided password
+- **Extract Backup Key** - Extract encryption key from iOS backup
+- **Check iOS Backup** - Analyze iOS backup for potential indicators of compromise
+- **Check iOS Filesystem** - Analyze iOS filesystem dump for potential threats
+- **Check Backup with IOCs** - Run full backup analysis with IOC checking enabled
+- **Check File System for IOCs** - Analyze iOS filesystem dump for IOCs and potential threats
 
-- **Android Analysis**:
-  - Download APKs from connected devices
-  - Check Android devices via ADB
-  - Analyze Android bug reports
-  - Check Android backups
-  - Analyze AndroidQF acquisitions
-  - Check for IOCs
-  - **NEW**: Generate professional PDF security reports
+### Android Analysis
+- **Download APKs** - Download APK files from connected Android device
+- **Check Device via ADB** - Check connected Android device via ADB for potential threats
+- **Check Bugreport** - Analyze Android bugreport for indicators of compromise
+- **Check Android Backup** - Analyze Android backup for potential threats
+- **Check AndroidQF** - Analyze Android Quick Forensics data
+- **Check Backup with IOCs** - Run full backup analysis with IOC checking using default IOC path
 
-- **PDF Report Generation** ✨:
-  - Executive summary with security assessment
-  - Device information and scan metadata
-  - Security findings with IOC matches highlighted
-  - Application analysis (App Store vs sideloaded apps)
-  - Network activity analysis with suspicious process detection
-  - Timeline of security events
-  - Prioritized recommendations based on findings
-  - Professional formatting suitable for technical documentation
-
-- **Utilities**:
-  - Download/update IOC databases
-  - Check MVT version information
+### Utilities
+- **Download/Update IOCs** - Download latest Indicators of Compromise definitions for both iOS and Android
+- **Display MVT Version** - Show installed MVT version information for both iOS and Android
+- **Update MVT** - Update Mobile Verification Toolkit to the latest version
 
 ## Requirements
 
 - Python 3.6 or newer
 - Mobile Verification Toolkit (MVT)
 - PyQt5
-- **NEW**: ReportLab and Matplotlib (for PDF generation)
 
 ## Installation
 
 1. First, ensure MVT is installed:
-   ```
+   ```bash
    pip3 install mvt
    ```
 
-2. Install all dependencies:
-   ```
-   pip3 install -r requirements.txt
+2. Install PyQt5:
+   ```bash
+   pip3 install PyQt5
    ```
    
-   Or install individually:
-   ```
-   pip3 install PyQt5 reportlab matplotlib
+   Or install all dependencies at once:
+   ```bash
+   pip3 install -r requirements.txt
    ```
 
-3. Download the MVT GUI:
-   ```
-   git clone https://github.com/yourusername/mvt-gui.git
-   cd mvt-gui
+3. Download the MVT-Dashboard:
+   ```bash
+   git clone https://github.com/yourusername/mvt-dashboard.git
+   cd mvt-dashboard
    ```
 
 4. Run the application:
-   ```
-   python3 mvt_gui.py
+   ```bash
+   python3 run_mvt_gui.py
    ```
 
 ## Usage
 
+### Getting Started
+
+1. Launch the application using `python3 run_mvt_gui.py`
+2. The application will automatically check if MVT is properly installed
+3. Select the appropriate tab based on your device type (iOS/Android) or utility needs
+
 ### iOS Analysis
 
-1. **Decrypt iOS Backup**:
-   - Enter the backup path and destination
-   - Provide the backup password if required
+1. **Basic iOS Backup Analysis**:
+   - Select the **iOS Analysis** tab
+   - Browse and select your iOS backup directory in "Backup Path"
+   - Choose an output directory for results
+   - Click "Check iOS Backup" to analyze for potential threats
+
+2. **Decrypt iOS Backup**:
+   - Enter the backup path and destination output path
+   - Provide the backup password if the backup is encrypted
    - Click "Decrypt iOS Backup"
 
-2. **Check iOS Backup**:
-   - Select the backup path
-   - Choose output location for results
-   - Enable/disable fast mode and hash generation
-   - Click "Check iOS Backup"
-
-3. **Generate PDF Report** ✨:
-   - After running any analysis that produces results
-   - Click "📄 Generate PDF Report"
-   - Professional report will be created in the output directory
+3. **IOC Analysis**:
+   - Use "Check Backup with IOCs" or "Check File System for IOCs" for enhanced threat detection
+   - The application automatically uses the default IOC database location
 
 ### Android Analysis
 
 1. **Connect to Device via ADB**:
-   - Enter device serial (optional)
+   - Ensure USB debugging is enabled on your Android device
+   - Connect your device via USB
+   - Enter device serial (optional) if multiple devices are connected
    - Click "Check Device via ADB"
 
 2. **Download APKs**:
-   - Set output path
-   - Choose whether to download system APKs
+   - Set an output path for downloaded APK files
+   - Choose whether to download all APKs (including system apps)
    - Click "Download APKs"
 
-3. **Generate PDF Report** ✨:
-   - After running any analysis that produces results
-   - Click "📄 Generate PDF Report"
-   - Professional report will be created in the output directory
+3. **Analyze Android Data**:
+   - Use "Check Bugreport" for analyzing Android bug reports
+   - Use "Check Android Backup" for analyzing Android backup files
+   - Use "Check AndroidQF" for Android Quick Forensics data analysis
 
-### PDF Report Features
+### Utilities
 
-The generated PDF reports include:
+1. **Keep IOCs Updated**:
+   - Click "Download/Update IOCs" to get the latest threat indicators
+   - This downloads IOC databases for both iOS and Android platforms
 
-- **Executive Summary**: High-level security assessment with color-coded alerts
-- **Device Information**: Complete device metadata and scan details
-- **Security Findings**: Detailed analysis of IOC matches and suspicious activities
-- **Application Analysis**: Breakdown of installed apps with security risk assessment
-- **Network Analysis**: Process-level network activity with anomaly detection
-- **Timeline**: Chronological view of security events
-- **Recommendations**: Prioritized action items based on findings
+2. **Check MVT Version**:
+   - Click "Display MVT Version" to see your current MVT installation details
 
-### Demo Mode
-
-Try the PDF generation feature with sample data:
-```
-python3 demo_pdf_generation.py
-```
+3. **Update MVT**:
+   - Click "Update MVT" to upgrade to the latest version of the Mobile Verification Toolkit
+   - The application may need to be restarted after updating
 
 ### Viewing Results
 
-- Results will be displayed in the output console
-- Detailed reports are saved to the selected output directory
-- **NEW**: PDF reports provide comprehensive, shareable security analysis
+- All command output is displayed in real-time in the console area
+- Results are color-coded for easy reading (green for success, red for errors, etc.)
+- Detailed analysis results are saved to your selected output directory
+- Use the "Clear" button to clear the console output when needed
 
-## Dependencies
+## Key Features
 
-The application requires these Python packages:
-
-- `mvt>=2.5.0` - Mobile Verification Toolkit
-- `PyQt5>=5.15.4` - GUI framework
-- `reportlab>=4.0.0` - PDF generation
-- `matplotlib>=3.5.0` - Charts and visualizations
-
-## Troubleshooting
-
-- **MVT Not Found**: Ensure MVT is installed and in your PATH
-- **ADB Connection Issues**: Verify USB debugging is enabled on your Android device
-- **Permission Errors**: Make sure you have the necessary permissions to read/write to the selected directories
-- **PDF Generation Errors**: Ensure reportlab and matplotlib are installed correctly
-- **Missing PDF Button**: Install PDF dependencies with `pip install reportlab matplotlib`
+- **Real-time Console Output**: See command progress and results as they happen
+- **Dark Theme Interface**: Modern, easy-on-the-eyes design
+- **Progress Indicators**: Visual feedback during long-running operations
+- **Input Validation**: Prevents common user errors with helpful warnings
+- **Multi-platform Support**: Works with both iOS and Android devices
+- **Automatic IOC Integration**: Seamlessly uses MVT's IOC databases for threat detection
 
 ## File Structure
 
 ```
-mvt-gui/
-├── mvt_gui.py                 # Main GUI application
-├── mvt_pdf_generator.py       # PDF report generation module
-├── demo_pdf_generation.py     # Demo script with sample data
-├── requirements.txt           # Python dependencies
-├── README.md                  # This file
-└── CHANGELOG.md              # Version history
+mvt-dashboard/
+├── run_mvt_gui.py         # Application launcher
+├── mvt_gui.py             # Main GUI application
+├── requirements.txt       # Python dependencies
+├── README.md              # This file
+├── CLAUDE.md              # Development reference
+├── _img/                  # Screenshots and images
+│   └── MVT-dashboard.png  # Application screenshot
+└── CHANGELOG.md           # Version history
 ```
+
+## Troubleshooting
+
+### Common Issues
+
+- **MVT Not Found**: Ensure MVT is installed and in your PATH. Try `mvt-ios version` in terminal to verify.
+- **ADB Connection Issues**: 
+  - Verify USB debugging is enabled on your Android device
+  - Check that your device appears in `adb devices`
+  - Try different USB cables or ports
+- **Permission Errors**: Make sure you have read/write permissions to the selected directories
+- **PyQt5 Installation Issues**: 
+  - On macOS: Try `pip3 install --user PyQt5`
+  - On Linux: You may need to install additional system packages
+
+### Getting Help
+
+If you encounter issues:
+1. Check the console output for detailed error messages
+2. Verify all requirements are properly installed
+3. Ensure your device is properly connected (for ADB operations)
+4. Try running the equivalent MVT command-line tool directly to isolate GUI vs MVT issues
+
+## Dependencies
+
+The application requires these Python packages (see `requirements.txt`):
+
+- `mvt>=2.5.0` - Mobile Verification Toolkit
+- `PyQt5>=5.15.4` - GUI framework
 
 ## License
 
@@ -174,4 +188,6 @@ This project is governed by the same license as MVT (MVT License 1.1).
 
 This GUI was created to simplify the use of the [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) by Amnesty International Security Lab.
 
-PDF report generation adds professional documentation capabilities for security analysis workflows.
+## Contributing
+
+Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests to help improve MVT-Dashboard.
