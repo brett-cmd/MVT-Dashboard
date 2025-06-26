@@ -1,0 +1,59 @@
+[
+    {
+        "entry": "shouldShowRSVPDataDetectors",
+        "value": false
+    },
+    {
+        "entry": "com.apple.gms.availability.useCasesWhoseAssetsNotReady",
+        "value": "bplist00\\xa3\u0001\u0002\u0003_\u0010\"com.apple.PaperKit.ImageGeneration_\u0010%VisualGeneration.GenerativePlayground_\u0010'VisualGeneration.KeyboardEmojiGenerator\b\f1Y\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\\x83"
+    },
+    {
+        "entry": "AddingEmojiKeybordHandled",
+        "value": true
+    },
+    {
+        "entry": "AKLastIDMSEnvironment",
+        "value": 0
+    },
+    {
+        "entry": "com.apple.gms.availability.key",
+        "value": "bplist00\\xa1\u0001\u0010\u0002\b\n\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f"
+    },
+    {
+        "entry": "AppleLanguagesSchemaVersion",
+        "value": 4000
+    },
+    {
+        "entry": "AppleLanguages",
+        "value": [
+            "en-CA"
+        ]
+    },
+    {
+        "entry": "AKLastLocale",
+        "value": "en_CA"
+    },
+    {
+        "entry": "PKLogNotificationServiceResponsesKey",
+        "value": false
+    },
+    {
+        "entry": "com.apple.gms.availability.disallowedUseCases",
+        "value": "bplist00\\xa0\b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t"
+    },
+    {
+        "entry": "PKKeychainVersionKey",
+        "value": 8
+    },
+    {
+        "entry": "AppleLocale",
+        "value": "en_CA"
+    },
+    {
+        "entry": "ApplePasscodeKeyboards",
+        "value": [
+            "en_CA@sw=QWERTY;hw=Automatic",
+            "emoji@sw=Emoji"
+        ]
+    }
+]

@@ -1,0 +1,399 @@
+[
+    {
+        "DeviceBasedVPP": false,
+        "artistName": "Google",
+        "bundleShortVersionString": "136.7103.42",
+        "bundleVersion": "136.0.7103.42",
+        "com.apple.iTunesStore.downloadInfo": {
+            "accountInfo": {
+                "AltDSID": "001197-08-9fc2cf4a-29bc-4bdd-93c4-ca8a264977c8",
+                "AppleID": "301ptra4@utoronto.ca",
+                "DSPersonID": 21995973282,
+                "DownloaderID": 0,
+                "FamilyID": 0,
+                "PurchaserID": 21995973282
+            },
+            "purchaseDate": "2025-04-26T18:26:17Z"
+        },
+        "distributorInfo": {
+            "developerName": "Apple",
+            "distributorID": "com.apple.AppStore",
+            "localizedDistributorName": {
+                "": "App Store"
+            }
+        },
+        "gameCenterEnabled": false,
+        "gameCenterEverEnabled": false,
+        "genre": "Utilities",
+        "genreId": 6002,
+        "hasMessagesExtension": false,
+        "hasOrEverHasHadIAP": true,
+        "iad-attribution": "0",
+        "is-auto-download": false,
+        "is-purchased-redownload": false,
+        "isB2BCustomApp": false,
+        "isFactoryInstall": false,
+        "itemId": 535886823,
+        "itemName": "Google Chrome",
+        "kind": "software",
+        "launchProhibited": false,
+        "rating": {
+            "label": "17+",
+            "rank": 600
+        },
+        "redownload-params": "productType=C&price=0&salableAdamId=535886823&pricingParameters=STDRDL",
+        "releaseDate": "2012-06-28T19:57:38Z",
+        "s": 143455,
+        "sideLoadedDeviceBasedVPP": false,
+        "softwareVersionBundleId": "com.google.chrome.ios",
+        "softwareVersionExternalIdentifier": 874225158,
+        "sourceApp": "com.apple.AppStore",
+        "storeCohort": "10|date=1745690400000&sf=143455&pgtp=Search&pgid=f9e16d06-7534-4c09-b593-b54f38f54edc&prpg=SearchLanding_SearchLanding&ctxt=Search&issrch=1&imptyp=card&kind=iosSoftware&lngid=6",
+        "storefrontCountryCode": "ca",
+        "subgenres": [],
+        "title": "Chrome",
+        "variantID": "1:iPhone14,5:18",
+        "file_path": "/Users/simcoehall/Desktop/Merec/private/var/containers/Bundle/Application/841726C7-A12D-45C7-B425-765C16778349/iTunesMetadata.plist",
+        "isodate": "2025-04-26 22:26:17.000000"
+    },
+    {
+        "DeviceBasedVPP": false,
+        "artistName": "Duo Security LLC",
+        "bundleShortVersionString": "4.86.0",
+        "bundleVersion": "4.86.0.1165.1",
+        "com.apple.iTunesStore.downloadInfo": {
+            "accountInfo": {
+                "AltDSID": "001197-08-9fc2cf4a-29bc-4bdd-93c4-ca8a264977c8",
+                "AppleID": "301ptra4@utoronto.ca",
+                "DSPersonID": 21995973282,
+                "DownloaderID": 0,
+                "FamilyID": 0,
+                "PurchaserID": 21995973282
+            },
+            "purchaseDate": "2024-10-18T14:21:45Z"
+        },
+        "distributorInfo": {
+            "developerName": "Apple",
+            "distributorID": "com.apple.AppStore",
+            "localizedDistributorName": {
+                "": "App Store"
+            }
+        },
+        "gameCenterEnabled": false,
+        "gameCenterEverEnabled": false,
+        "genre": "Business",
+        "genreId": 6000,
+        "hasMessagesExtension": false,
+        "hasOrEverHasHadIAP": false,
+        "iad-attribution": "0",
+        "is-auto-download": false,
+        "is-purchased-redownload": true,
+        "isB2BCustomApp": false,
+        "isFactoryInstall": false,
+        "itemId": 422663827,
+        "itemName": "Duo Mobile",
+        "kind": "software",
+        "launchProhibited": false,
+        "rating": {
+            "label": "4+",
+            "rank": 100
+        },
+        "redownload-params": "productType=C&price=0&salableAdamId=422663827&pricingParameters=STDRDL",
+        "releaseDate": "2011-03-08T19:13:05Z",
+        "s": 143455,
+        "sideLoadedDeviceBasedVPP": false,
+        "softwareVersionBundleId": "com.duosecurity.DuoMobile",
+        "softwareVersionExternalIdentifier": 873644330,
+        "sourceApp": "com.apple.AppStore",
+        "storeCohort": "10|date=1744736400000&sf=143455&pgtp=Search&pgid=5ed5ad7d-fa69-4f18-b9a2-39dc0c5afb7c&prpg=SearchLanding_SearchLanding&ctxt=Search&issrch=1&imptyp=card&kind=iosSoftware&lngid=6",
+        "storefrontCountryCode": "ca",
+        "subgenres": [],
+        "title": "Duo Mobile",
+        "variantID": "1:iPhone14,5:18",
+        "file_path": "/Users/simcoehall/Desktop/Merec/private/var/containers/Bundle/Application/D2F6E85F-57A7-43AD-AC83-48A1BCA1ADEB/iTunesMetadata.plist",
+        "isodate": "2024-10-18 18:21:45.000000"
+    },
+    {
+        "DeviceBasedVPP": false,
+        "artistName": "Apple",
+        "bundleShortVersionString": "3.1.5",
+        "bundleVersion": "5612.85",
+        "com.apple.iTunesStore.downloadInfo": {
+            "accountInfo": {
+                "AltDSID": "000111-08-8c7ae117-a19b-48fa-ac67-ec6bd3305783",
+                "AppleID": "301ptra1@utoronto.ca",
+                "DSPersonID": 21185613778,
+                "DownloaderID": 0,
+                "FamilyID": 0,
+                "PurchaserID": 21185613778
+            },
+            "purchaseDate": "2023-11-20T20:49:38Z"
+        },
+        "distributorInfo": {
+            "developerName": "Apple",
+            "distributorID": "com.apple.AppStore",
+            "localizedDistributorName": {
+                "": "App Store"
+            }
+        },
+        "gameCenterEnabled": false,
+        "gameCenterEverEnabled": false,
+        "genre": "Photo & Video",
+        "genreId": 6008,
+        "hasMessagesExtension": false,
+        "hasOrEverHasHadIAP": false,
+        "iad-attribution": "0",
+        "is-auto-download": false,
+        "is-purchased-redownload": false,
+        "isB2BCustomApp": false,
+        "isFactoryInstall": false,
+        "itemId": 1212699939,
+        "itemName": "Clips",
+        "kind": "software",
+        "launchProhibited": false,
+        "rating": {
+            "label": "4+",
+            "rank": 100
+        },
+        "redownload-params": "productType=C&price=0&salableAdamId=1212699939&pricingParameters=STDRDL",
+        "releaseDate": "2017-04-06T17:13:13Z",
+        "s": 143455,
+        "sideLoadedDeviceBasedVPP": false,
+        "softwareVersionBundleId": "com.apple.clips",
+        "softwareVersionExternalIdentifier": 860128355,
+        "storeCohort": "10|date=1700512200000&sf=143455",
+        "storefrontCountryCode": "ca",
+        "subgenres": [],
+        "title": "Clips",
+        "variantID": "1:iPhone14,5:16",
+        "file_path": "/Users/simcoehall/Desktop/Merec/private/var/containers/Bundle/Application/D9BC70DA-8925-45A9-A9B8-BA127DB5DE8E/iTunesMetadata.plist",
+        "isodate": "2023-11-21 01:49:38.000000"
+    },
+    {
+        "DeviceBasedVPP": false,
+        "artistName": "Apple",
+        "bundleShortVersionString": "521000",
+        "bundleVersion": "5.21.0.1028",
+        "com.apple.iTunesStore.downloadInfo": {
+            "accountInfo": {
+                "AltDSID": "000111-08-8c7ae117-a19b-48fa-ac67-ec6bd3305783",
+                "AppleID": "301ptra1@utoronto.ca",
+                "DSPersonID": 21185613778,
+                "DownloaderID": 0,
+                "FamilyID": 0,
+                "PurchaserID": 21185613778
+            },
+            "purchaseDate": "2023-11-20T20:49:38Z"
+        },
+        "distributorInfo": {
+            "developerName": "Apple",
+            "distributorID": "com.apple.AppStore",
+            "localizedDistributorName": {
+                "": "App Store"
+            }
+        },
+        "gameCenterEnabled": false,
+        "gameCenterEverEnabled": false,
+        "genre": "Shopping",
+        "genreId": 6024,
+        "hasMessagesExtension": true,
+        "hasOrEverHasHadIAP": false,
+        "iad-attribution": "0",
+        "is-auto-download": false,
+        "is-purchased-redownload": false,
+        "isB2BCustomApp": false,
+        "isFactoryInstall": false,
+        "itemId": 375380948,
+        "itemName": "Apple Store",
+        "kind": "software",
+        "launchProhibited": false,
+        "rating": {
+            "label": "4+",
+            "rank": 100
+        },
+        "redownload-params": "productType=C&price=0&salableAdamId=375380948&pricingParameters=STDRDL",
+        "releaseDate": "2010-06-15T11:31:33Z",
+        "s": 143455,
+        "sideLoadedDeviceBasedVPP": false,
+        "softwareVersionBundleId": "com.apple.store.Jolly",
+        "softwareVersionExternalIdentifier": 858937736,
+        "storeCohort": "10|date=1700512200000&sf=143455",
+        "storefrontCountryCode": "ca",
+        "subgenres": [],
+        "title": "Apple Store",
+        "variantID": "1:iPhone14,5:17",
+        "file_path": "/Users/simcoehall/Desktop/Merec/private/var/containers/Bundle/Application/B71BD0D8-8E0F-4498-BC5D-42F189D40276/iTunesMetadata.plist",
+        "isodate": "2023-11-21 01:49:38.000000"
+    },
+    {
+        "DeviceBasedVPP": false,
+        "artistName": "Uber Technologies, Inc.",
+        "bundleShortVersionString": "3.663.10001",
+        "bundleVersion": "3.663.10001",
+        "com.apple.iTunesStore.downloadInfo": {
+            "accountInfo": {
+                "AltDSID": "000111-08-8c7ae117-a19b-48fa-ac67-ec6bd3305783",
+                "AppleID": "301ptra1@utoronto.ca",
+                "DSPersonID": 21185613778,
+                "DownloaderID": 0,
+                "FamilyID": 0,
+                "PurchaserID": 21185613778
+            },
+            "purchaseDate": "2023-11-22T19:14:01Z"
+        },
+        "distributorInfo": {
+            "developerName": "Apple",
+            "distributorID": "com.apple.AppStore",
+            "localizedDistributorName": {
+                "": "App Store"
+            }
+        },
+        "gameCenterEnabled": false,
+        "gameCenterEverEnabled": false,
+        "genre": "Travel",
+        "genreId": 6003,
+        "hasMessagesExtension": false,
+        "hasOrEverHasHadIAP": false,
+        "iad-attribution": "0",
+        "is-auto-download": false,
+        "is-purchased-redownload": true,
+        "isB2BCustomApp": false,
+        "isFactoryInstall": false,
+        "itemId": 368677368,
+        "itemName": "Uber - Request a ride",
+        "kind": "software",
+        "launchProhibited": false,
+        "rating": {
+            "label": "4+",
+            "rank": 100
+        },
+        "redownload-params": "productType=C&price=0&salableAdamId=368677368&pricingParameters=STDRDL",
+        "releaseDate": "2010-05-21T03:11:23Z",
+        "s": 143455,
+        "sideLoadedDeviceBasedVPP": false,
+        "softwareVersionBundleId": "com.ubercab.UberClient",
+        "softwareVersionExternalIdentifier": 873493436,
+        "sourceApp": "com.apple.AppStore",
+        "storeCohort": "10|date=1744036200000&sf=143455&pgtp=Search&pgid=05380cb0-d32a-477a-b1cd-08a97c6b7476&prpg=SearchLanding_SearchLanding&ctxt=Search&issrch=1&imptyp=card&kind=iosSoftware&lngid=6",
+        "storefrontCountryCode": "ca",
+        "subgenres": [],
+        "title": "Uber",
+        "variantID": "1:iPhone14,5:18",
+        "file_path": "/Users/simcoehall/Desktop/Merec/private/var/containers/Bundle/Application/D4E5BFA9-3657-4BB3-AD07-58A2BBA327FE/iTunesMetadata.plist",
+        "isodate": "2023-11-23 00:14:01.000000"
+    },
+    {
+        "DeviceBasedVPP": false,
+        "artistName": "Google",
+        "bundleShortVersionString": "25.17.0",
+        "bundleVersion": "25.17.0.7497858350",
+        "com.apple.iTunesStore.downloadInfo": {
+            "accountInfo": {
+                "AltDSID": "001197-08-9fc2cf4a-29bc-4bdd-93c4-ca8a264977c8",
+                "AppleID": "301ptra4@utoronto.ca",
+                "DSPersonID": 21995973282,
+                "DownloaderID": 0,
+                "FamilyID": 0,
+                "PurchaserID": 21995973282
+            },
+            "purchaseDate": "2025-04-26T18:28:24Z"
+        },
+        "distributorInfo": {
+            "developerName": "Apple",
+            "distributorID": "com.apple.AppStore",
+            "localizedDistributorName": {
+                "": "App Store"
+            }
+        },
+        "gameCenterEnabled": false,
+        "gameCenterEverEnabled": false,
+        "genre": "Navigation",
+        "genreId": 6010,
+        "hasMessagesExtension": true,
+        "hasOrEverHasHadIAP": true,
+        "iad-attribution": "0",
+        "is-auto-download": false,
+        "is-purchased-redownload": false,
+        "isB2BCustomApp": false,
+        "isFactoryInstall": false,
+        "itemId": 585027354,
+        "itemName": "Google Maps",
+        "kind": "software",
+        "launchProhibited": false,
+        "rating": {
+            "label": "4+",
+            "rank": 100
+        },
+        "redownload-params": "productType=C&price=0&salableAdamId=585027354&pricingParameters=STDRDL",
+        "releaseDate": "2012-12-13T04:21:00Z",
+        "s": 143455,
+        "sideLoadedDeviceBasedVPP": false,
+        "softwareVersionBundleId": "com.google.Maps",
+        "softwareVersionExternalIdentifier": 874274556,
+        "sourceApp": "com.apple.AppStore",
+        "storeCohort": "10|date=1745690400000&sf=143455&pgtp=Search&pgid=bf0b97fa-50ec-49d6-ba3b-0fc7e765ab8a&prpg=SearchLanding_SearchLanding&ctxt=Search&issrch=1&imptyp=card&kind=iosSoftware&lngid=6",
+        "storefrontCountryCode": "ca",
+        "subgenres": [],
+        "title": "Google Maps",
+        "variantID": "1:iPhone14,5:18",
+        "file_path": "/Users/simcoehall/Desktop/Merec/private/var/containers/Bundle/Application/495F289F-D5E2-4FD3-8F90-69221909E349/iTunesMetadata.plist",
+        "isodate": "2025-04-26 22:28:24.000000"
+    },
+    {
+        "gameCenterEnabled": false,
+        "genre": "Travel",
+        "itemId": 326459697,
+        "com.apple.iTunesStore.downloadInfo": {
+            "purchaseDate": "2025-04-07T15:27:38Z",
+            "accountInfo": {
+                "AltDSID": "001197-08-9fc2cf4a-29bc-4bdd-93c4-ca8a264977c8",
+                "AppleID": "301ptra4@utoronto.ca",
+                "DSPersonID": 21995973282,
+                "DownloaderID": 0,
+                "FamilyID": 0,
+                "PurchaserID": 21995973282
+            }
+        },
+        "distributorInfo": {
+            "localizedDistributorName": {
+                "": "App Store"
+            },
+            "distributorID": "com.apple.AppStore",
+            "developerName": "Apple"
+        },
+        "storeCohort": "10|date=1746034200000&sf=143455&pgtp=Search&pgid=b00d681b-ec52-40ed-aefb-cb5ba2f00afa&prpg=SearchLanding_SearchLanding&ctxt=Search&issrch=1&imptyp=card&kind=iosSoftware&lngid=6",
+        "releaseDate": "2009-08-20T07:00:00Z",
+        "softwareVersionExternalIdentifier": 874394242,
+        "is-purchased-redownload": true,
+        "hasOrEverHasHadIAP": false,
+        "isB2BCustomApp": false,
+        "launchProhibited": false,
+        "artistName": "Air Canada",
+        "isFactoryInstall": false,
+        "subgenres": [],
+        "storefrontCountryCode": "ca",
+        "variantID": "1:iPhone14,5:18",
+        "DeviceBasedVPP": false,
+        "sideLoadedDeviceBasedVPP": false,
+        "kind": "software",
+        "s": 143455,
+        "is-auto-download": false,
+        "hasMessagesExtension": false,
+        "bundleShortVersionString": "5.58.1",
+        "genreId": 6003,
+        "sourceApp": "com.apple.AppStore",
+        "iad-attribution": "0",
+        "redownload-params": "productType=C&price=0&salableAdamId=326459697&pricingParameters=STDRDL",
+        "softwareVersionBundleId": "com.aircanada.csp.aciclient",
+        "title": "Air Canada",
+        "gameCenterEverEnabled": false,
+        "itemName": "Air Canada + Aeroplan",
+        "rating": {
+            "label": "17+",
+            "rank": 600
+        },
+        "bundleVersion": "250429170136",
+        "file_path": "/Users/simcoehall/Desktop/Merec/private/var/containers/Bundle/Application/9F30536A-915A-48DD-9B37-332CE87046BD/iTunesMetadata.plist",
+        "isodate": "2025-04-07 19:27:38.000000"
+    }
+]

@@ -1,0 +1,912 @@
+[
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+12029093292",
+        "isodate": "2025-04-26 15:03:25.730941",
+        "idstatus": 1,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+12159428478",
+        "isodate": "2025-04-24 13:58:00.152138",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+12897951026",
+        "isodate": "2025-05-01 16:53:50.408041",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14162877028",
+        "isodate": "2025-04-22 15:44:32.974996",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14164105466",
+        "isodate": "2025-04-24 19:16:17.801402",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14164323263",
+        "isodate": "2025-04-22 15:44:32.974996",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14164508004",
+        "isodate": "2025-04-25 19:16:12.078396",
+        "idstatus": 1,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14165533566",
+        "isodate": "2025-05-01 16:53:56.206795",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14165546239",
+        "isodate": "2025-04-29 17:10:36.372020",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14165667588",
+        "isodate": "2025-04-22 15:34:44.076301",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14166457760",
+        "isodate": "2025-04-29 18:49:45.757137",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14167278474",
+        "isodate": "2025-05-01 16:52:53.689612",
+        "idstatus": 1,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14168846803",
+        "isodate": "2025-04-22 15:43:09.539710",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14168920328",
+        "isodate": "2025-04-26 18:17:15.702295",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14168921058",
+        "isodate": "2025-04-22 15:46:32.850659",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169172345",
+        "isodate": "2025-04-22 15:39:23.340441",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169310610",
+        "isodate": "2025-04-22 15:41:50.720029",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169465848",
+        "isodate": "2025-04-22 15:34:44.076301",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169467794",
+        "isodate": "2025-04-22 15:43:09.539710",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169539760",
+        "isodate": "2025-04-22 15:35:28.916368",
+        "idstatus": 2,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169708193",
+        "isodate": "2025-04-22 15:40:09.730910",
+        "idstatus": 2,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169782031",
+        "isodate": "2025-04-22 15:45:52.793784",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169782065",
+        "isodate": "2025-04-22 15:46:32.850659",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169782121",
+        "isodate": "2025-04-22 15:33:54.524627",
+        "idstatus": 2,
+        "occurrences": 3
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169782125",
+        "isodate": "2025-04-22 15:39:23.340441",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169784085",
+        "isodate": "2025-04-22 15:43:53.439645",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169784865",
+        "isodate": "2025-04-22 15:41:50.720029",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169785360",
+        "isodate": "2025-04-22 15:37:57.264546",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169785401",
+        "isodate": "2025-04-22 15:40:09.730910",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169786784",
+        "isodate": "2025-04-22 15:36:09.341921",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14169788698",
+        "isodate": "2025-04-22 15:35:28.916368",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14372342697",
+        "isodate": "2025-04-22 15:37:57.264546",
+        "idstatus": 2,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14372487831",
+        "isodate": "2025-04-22 15:33:54.524627",
+        "idstatus": 2,
+        "occurrences": 9
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+14432519465",
+        "isodate": "2025-04-24 18:59:51.616558",
+        "idstatus": 1,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+15195025476",
+        "isodate": "2025-04-29 17:10:31.030312",
+        "idstatus": 1,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+16138786978",
+        "isodate": "2025-04-24 19:14:19.228410",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+16472037014",
+        "isodate": "2025-04-26 18:07:28.187535",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+16472070654",
+        "isodate": "2025-04-24 13:23:48.645671",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+16472674020",
+        "isodate": "2025-04-24 16:13:43.774314",
+        "idstatus": 1,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+16475001653",
+        "isodate": "2025-04-22 15:36:09.341921",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+16476159178",
+        "isodate": "2025-04-22 15:43:53.439645",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+16478956764",
+        "isodate": "2025-04-22 15:37:14.217902",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+16479983211",
+        "isodate": "2025-04-24 13:24:31.231245",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+18003920289",
+        "isodate": "2025-04-28 12:28:55.748232",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+18334915851",
+        "isodate": "2025-04-28 12:29:19.854006",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+18339044555",
+        "isodate": "2025-04-28 13:24:54.655009",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.ess",
+        "user": "tel:+19058285211",
+        "isodate": "2025-04-22 15:37:14.217902",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "mailto:301ptra4@utoronto.ca",
+        "isodate": "2025-04-24 21:34:19.444822",
+        "idstatus": 1,
+        "occurrences": 11
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+12029093292",
+        "isodate": "2025-04-26 15:03:29.839542",
+        "idstatus": 1,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+12029671813",
+        "isodate": "2025-04-07 15:46:47.186618",
+        "idstatus": 2,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+12159428478",
+        "isodate": "2025-04-24 13:58:00.621775",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+12264001836",
+        "isodate": "2025-04-07 15:29:19.419592",
+        "idstatus": 2,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14162877028",
+        "isodate": "2025-04-22 15:44:32.997286",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14164105466",
+        "isodate": "2025-04-24 19:16:18.138667",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14164148202",
+        "isodate": "2025-04-17 20:25:42.029222",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14164501604",
+        "isodate": "2025-04-29 01:45:46.609685",
+        "idstatus": 1,
+        "occurrences": 4
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14164508004",
+        "isodate": "2025-04-25 19:16:11.929590",
+        "idstatus": 1,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14165546239",
+        "isodate": "2025-04-29 17:10:36.506095",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14166457760",
+        "isodate": "2025-04-29 18:49:45.559248",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14167278474",
+        "isodate": "2025-04-24 17:27:24.572437",
+        "idstatus": 1,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14168920328",
+        "isodate": "2025-04-26 18:17:13.997139",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14169465848",
+        "isodate": "2025-04-22 15:34:44.026566",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14169467794",
+        "isodate": "2025-04-22 15:43:09.387107",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14169782031",
+        "isodate": "2025-04-22 15:45:52.675069",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14169782065",
+        "isodate": "2025-04-22 15:46:33.233794",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14169782121",
+        "isodate": "2025-04-25 13:40:03.777195",
+        "idstatus": 2,
+        "occurrences": 3
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14169782125",
+        "isodate": "2025-04-22 15:39:23.272720",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14169784085",
+        "isodate": "2025-04-24 13:23:55.712919",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14169784865",
+        "isodate": "2025-04-22 15:41:50.568496",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14169785360",
+        "isodate": "2025-04-22 15:37:57.299740",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14169785401",
+        "isodate": "2025-04-22 15:40:09.743314",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14169786784",
+        "isodate": "2025-04-22 15:36:09.353559",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14169788698",
+        "isodate": "2025-04-22 15:35:29.245674",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14372487831",
+        "isodate": "2025-04-28 13:10:51.627724",
+        "idstatus": 2,
+        "occurrences": 9
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+14432519465",
+        "isodate": "2025-04-24 18:59:51.962491",
+        "idstatus": 1,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+15195025476",
+        "isodate": "2025-04-29 17:10:30.920587",
+        "idstatus": 1,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+16138786978",
+        "isodate": "2025-04-24 19:14:19.576426",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+16472037014",
+        "isodate": "2025-04-29 20:01:04.713333",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+16472070654",
+        "isodate": "2025-04-24 13:23:49.203966",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+16472674020",
+        "isodate": "2025-04-24 16:13:44.150996",
+        "idstatus": 1,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+16479983211",
+        "isodate": "2025-04-24 13:24:31.752733",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+18445517237",
+        "isodate": "2025-04-29 18:27:56.719955",
+        "idstatus": 2,
+        "occurrences": 3
+    },
+    {
+        "package": "com.apple.madrid",
+        "user": "tel:+19058285211",
+        "isodate": "2025-04-24 13:23:52.156473",
+        "idstatus": 2,
+        "occurrences": 2
+    },
+    {
+        "package": "com.apple.private.ac",
+        "user": "tel:+14169782121",
+        "isodate": "2025-04-25 13:40:03.191374",
+        "idstatus": 2,
+        "occurrences": 3
+    },
+    {
+        "package": "com.apple.private.ac",
+        "user": "tel:+14372487831",
+        "isodate": "2025-04-22 15:56:16.155871",
+        "idstatus": 2,
+        "occurrences": 9
+    },
+    {
+        "package": "com.apple.private.ac",
+        "user": "tel:+16472037014",
+        "isodate": "2025-04-26 18:28:01.005718",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.private.ac",
+        "user": "tel:+18003920289",
+        "isodate": "2025-04-28 12:28:55.373260",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.private.ac",
+        "user": "tel:+18334915851",
+        "isodate": "2025-04-28 12:29:19.639393",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.private.ac",
+        "user": "tel:+18339044555",
+        "isodate": "2025-04-28 13:24:29.495619",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.private.alloy.bulletinboard",
+        "user": "urn:ds:21995973282",
+        "isodate": "2025-04-25 03:17:40.112023",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.private.alloy.contextsync",
+        "user": "mailto:301ptra4@utoronto.ca",
+        "isodate": "2025-04-17 16:55:57.034077",
+        "idstatus": 1,
+        "occurrences": 11
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.messaging",
+        "user": "tel:+14372487831",
+        "isodate": "2025-04-24 13:25:04.041143",
+        "idstatus": 2,
+        "occurrences": 9
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.messaging",
+        "user": "tel:+18003920289",
+        "isodate": "2025-04-28 12:28:55.352026",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.messaging",
+        "user": "tel:+18334915851",
+        "isodate": "2025-04-28 12:29:19.757668",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.messaging",
+        "user": "tel:+18339044555",
+        "isodate": "2025-04-28 13:24:31.713864",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.multi",
+        "user": "mailto:301ptra4@utoronto.ca",
+        "isodate": "2025-04-26 18:24:54.996245",
+        "idstatus": 1,
+        "occurrences": 11
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.multi",
+        "user": "mailto:bennettmihailidis@icloud.com",
+        "isodate": "2025-05-01 01:01:33.814649",
+        "idstatus": 1,
+        "occurrences": 1
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.multi",
+        "user": "tel:+14164501604",
+        "isodate": "2025-04-26 18:24:55.552103",
+        "idstatus": 1,
+        "occurrences": 4
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.multi",
+        "user": "tel:+14168920328",
+        "isodate": "2025-04-26 18:24:48.127246",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.multi",
+        "user": "tel:+14372487831",
+        "isodate": "2025-04-24 13:25:04.207272",
+        "idstatus": 2,
+        "occurrences": 9
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.multi",
+        "user": "tel:+18003920289",
+        "isodate": "2025-04-28 12:28:55.600780",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.multi",
+        "user": "tel:+18334915851",
+        "isodate": "2025-04-28 12:29:19.958098",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.multi",
+        "user": "tel:+18339044555",
+        "isodate": "2025-04-28 13:24:32.035557",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.sync",
+        "user": "mailto:301ptra4@utoronto.ca",
+        "isodate": "2025-04-22 14:24:59.775156",
+        "idstatus": 1,
+        "occurrences": 11
+    },
+    {
+        "package": "com.apple.private.alloy.facetime.sync",
+        "user": "tel:+14164501604",
+        "isodate": "2025-04-07 15:29:05.595933",
+        "idstatus": 1,
+        "occurrences": 4
+    },
+    {
+        "package": "com.apple.private.alloy.hearing",
+        "user": "mailto:301ptra4@utoronto.ca",
+        "isodate": "2025-04-24 16:10:18.664723",
+        "idstatus": 1,
+        "occurrences": 11
+    },
+    {
+        "package": "com.apple.private.alloy.home",
+        "user": "mailto:301ptra4@utoronto.ca",
+        "isodate": "2025-04-25 13:40:39.699635",
+        "idstatus": 1,
+        "occurrences": 11
+    },
+    {
+        "package": "com.apple.private.alloy.icloudpairing",
+        "user": "mailto:301ptra4@utoronto.ca",
+        "isodate": "2025-04-17 16:57:23.510513",
+        "idstatus": 1,
+        "occurrences": 11
+    },
+    {
+        "package": "com.apple.private.alloy.nameandphoto",
+        "user": "tel:+14372487831",
+        "isodate": "2025-04-24 13:25:03.827030",
+        "idstatus": 2,
+        "occurrences": 9
+    },
+    {
+        "package": "com.apple.private.alloy.nameandphoto",
+        "user": "tel:+18003920289",
+        "isodate": "2025-04-28 12:28:55.385715",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.private.alloy.nameandphoto",
+        "user": "tel:+18334915851",
+        "isodate": "2025-04-28 12:29:19.772874",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.private.alloy.nameandphoto",
+        "user": "tel:+18339044555",
+        "isodate": "2025-04-28 13:24:31.836809",
+        "idstatus": 2,
+        "occurrences": 5
+    },
+    {
+        "package": "com.apple.private.alloy.nearby",
+        "user": "mailto:301ptra4@utoronto.ca",
+        "isodate": "2025-04-21 21:05:23.914778",
+        "idstatus": 1,
+        "occurrences": 11
+    },
+    {
+        "package": "com.apple.private.alloy.nearby",
+        "user": "tel:+14168920328",
+        "isodate": "2025-04-27 20:30:11.160628",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.private.alloy.nearby",
+        "user": "tel:+14372487831",
+        "isodate": "2025-04-27 20:30:11.078133",
+        "idstatus": 2,
+        "occurrences": 9
+    },
+    {
+        "package": "com.apple.private.alloy.nearby",
+        "user": "tel:+16472037014",
+        "isodate": "2025-04-27 20:30:11.201258",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.private.alloy.phonecontinuity",
+        "user": "mailto:301ptra4@utoronto.ca",
+        "isodate": "2025-04-25 13:39:54.406369",
+        "idstatus": 1,
+        "occurrences": 11
+    },
+    {
+        "package": "com.apple.private.alloy.safetymonitor",
+        "user": "tel:+14168920328",
+        "isodate": "2025-04-26 18:13:47.721211",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.private.alloy.safetymonitor",
+        "user": "tel:+14372487831",
+        "isodate": "2025-04-28 13:10:19.865711",
+        "idstatus": 2,
+        "occurrences": 9
+    },
+    {
+        "package": "com.apple.private.alloy.safetymonitor",
+        "user": "tel:+16472037014",
+        "isodate": "2025-04-29 20:01:03.883142",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.private.alloy.safetymonitor",
+        "user": "tel:+18445517237",
+        "isodate": "2025-04-29 18:27:56.315330",
+        "idstatus": 2,
+        "occurrences": 3
+    },
+    {
+        "package": "com.apple.private.alloy.safetymonitor.multiplex",
+        "user": "tel:+14168920328",
+        "isodate": "2025-04-26 18:13:47.813684",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.private.alloy.safetymonitor.multiplex",
+        "user": "tel:+14372487831",
+        "isodate": "2025-04-28 13:10:28.976312",
+        "idstatus": 2,
+        "occurrences": 9
+    },
+    {
+        "package": "com.apple.private.alloy.safetymonitor.multiplex",
+        "user": "tel:+16472037014",
+        "isodate": "2025-04-29 20:01:04.058998",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.private.alloy.safetymonitor.multiplex",
+        "user": "tel:+18445517237",
+        "isodate": "2025-04-29 18:27:56.299305",
+        "idstatus": 2,
+        "occurrences": 3
+    },
+    {
+        "package": "com.apple.private.alloy.sms",
+        "user": "tel:+14164501604",
+        "isodate": "2025-04-26 17:41:52.776520",
+        "idstatus": 1,
+        "occurrences": 4
+    },
+    {
+        "package": "com.apple.private.alloy.status.keysharing",
+        "user": "tel:+14168920328",
+        "isodate": "2025-04-26 18:17:14.064932",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.private.alloy.status.keysharing",
+        "user": "tel:+16472037014",
+        "isodate": "2025-04-26 18:07:28.471979",
+        "idstatus": 1,
+        "occurrences": 7
+    },
+    {
+        "package": "com.apple.private.alloy.status.personal",
+        "user": "mailto:301ptra4@utoronto.ca",
+        "isodate": "2025-04-27 02:37:27.475979",
+        "idstatus": 1,
+        "occurrences": 11
+    },
+    {
+        "package": "com.apple.private.alloy.thumper.keys",
+        "user": "mailto:301ptra4@utoronto.ca",
+        "isodate": "2025-04-17 16:55:54.901592",
+        "idstatus": 1,
+        "occurrences": 11
+    }
+]

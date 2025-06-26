@@ -1,0 +1,814 @@
+[
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "758",
+        "client": "/usr/libexec/routined/98E5DD86-03C5-3C9C-AB21-3EF9682BCC58",
+        "delay": 1.07,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "677",
+        "client": "/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd/9D11F105-EA18-33E5-A227-C4E469ACD73C",
+        "delay": 1.07,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "646",
+        "client": "/System/Library/PrivateFrameworks/NanoTimeKit.framework/nanotimekitcompaniond/93FE8E4C-21EA-36D9-8DAE-DEC41B40ED26",
+        "delay": 1.07,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "587",
+        "client": "/usr/libexec/duetexpertd/906F5108-D009-32A0-B218-52BCB28B93B6",
+        "delay": 1.07,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "506",
+        "client": "/System/Library/TextInput/kbd/4F6C7FA4-BAC5-37EE-ABD7-6CA0E4F2A0BB",
+        "delay": 1.07,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "342",
+        "client": "/System/Library/PrivateFrameworks/CoreCDP.framework/cdpd/687B10C2-60A0-31E4-9EA4-2EE9BA8C59A1",
+        "delay": 1.07,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "298",
+        "client": "/usr/sbin/filecoordinationd/84312122-C05A-38EE-9541-9EEAD9887FC0",
+        "delay": 1.07,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "165",
+        "client": "/usr/libexec/bluetoothuserd/FD3041C6-8AFF-3C1F-8AD7-762A137F9505",
+        "delay": 1.07,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "98",
+        "client": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter/98C035C8-F1EF-3EC3-8B40-92572B33D338",
+        "delay": 1.07,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "101",
+        "client": "/usr/libexec/IOMFB_bics_daemon/892E45C6-BF8A-3BBC-8267-A1CA18C94245",
+        "delay": 1.07,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 1.07,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "758",
+        "client": "/usr/libexec/routined/98E5DD86-03C5-3C9C-AB21-3EF9682BCC58",
+        "delay": 2.64,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "677",
+        "client": "/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd/9D11F105-EA18-33E5-A227-C4E469ACD73C",
+        "delay": 2.64,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "646",
+        "client": "/System/Library/PrivateFrameworks/NanoTimeKit.framework/nanotimekitcompaniond/93FE8E4C-21EA-36D9-8DAE-DEC41B40ED26",
+        "delay": 2.64,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "587",
+        "client": "/usr/libexec/duetexpertd/906F5108-D009-32A0-B218-52BCB28B93B6",
+        "delay": 2.64,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "506",
+        "client": "/System/Library/TextInput/kbd/4F6C7FA4-BAC5-37EE-ABD7-6CA0E4F2A0BB",
+        "delay": 2.64,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "342",
+        "client": "/System/Library/PrivateFrameworks/CoreCDP.framework/cdpd/687B10C2-60A0-31E4-9EA4-2EE9BA8C59A1",
+        "delay": 2.64,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "298",
+        "client": "/usr/sbin/filecoordinationd/84312122-C05A-38EE-9541-9EEAD9887FC0",
+        "delay": 2.64,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "165",
+        "client": "/usr/libexec/bluetoothuserd/FD3041C6-8AFF-3C1F-8AD7-762A137F9505",
+        "delay": 2.64,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "98",
+        "client": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter/98C035C8-F1EF-3EC3-8B40-92572B33D338",
+        "delay": 2.64,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "101",
+        "client": "/usr/libexec/IOMFB_bics_daemon/892E45C6-BF8A-3BBC-8267-A1CA18C94245",
+        "delay": 2.64,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 2.64,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "758",
+        "client": "/usr/libexec/routined/98E5DD86-03C5-3C9C-AB21-3EF9682BCC58",
+        "delay": 4.71,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "677",
+        "client": "/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd/9D11F105-EA18-33E5-A227-C4E469ACD73C",
+        "delay": 4.71,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "646",
+        "client": "/System/Library/PrivateFrameworks/NanoTimeKit.framework/nanotimekitcompaniond/93FE8E4C-21EA-36D9-8DAE-DEC41B40ED26",
+        "delay": 4.71,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "587",
+        "client": "/usr/libexec/duetexpertd/906F5108-D009-32A0-B218-52BCB28B93B6",
+        "delay": 4.71,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "506",
+        "client": "/System/Library/TextInput/kbd/4F6C7FA4-BAC5-37EE-ABD7-6CA0E4F2A0BB",
+        "delay": 4.71,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "342",
+        "client": "/System/Library/PrivateFrameworks/CoreCDP.framework/cdpd/687B10C2-60A0-31E4-9EA4-2EE9BA8C59A1",
+        "delay": 4.71,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "298",
+        "client": "/usr/sbin/filecoordinationd/84312122-C05A-38EE-9541-9EEAD9887FC0",
+        "delay": 4.71,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "165",
+        "client": "/usr/libexec/bluetoothuserd/FD3041C6-8AFF-3C1F-8AD7-762A137F9505",
+        "delay": 4.71,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "98",
+        "client": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter/98C035C8-F1EF-3EC3-8B40-92572B33D338",
+        "delay": 4.71,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "101",
+        "client": "/usr/libexec/IOMFB_bics_daemon/892E45C6-BF8A-3BBC-8267-A1CA18C94245",
+        "delay": 4.71,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 4.71,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-03-06 18:34:23.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 6.779999999999999,
+        "times_delayed": 4
+    },
+    {
+        "isodate": "2025-03-13 19:15:07.000000",
+        "pid": "429",
+        "client": "/usr/libexec/duetexpertd/906F5108-D009-32A0-B218-52BCB28B93B6",
+        "delay": 0.88,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:15:07.000000",
+        "pid": "243",
+        "client": "/System/Library/PrivateFrameworks/NanoTimeKit.framework/nanotimekitcompaniond/93FE8E4C-21EA-36D9-8DAE-DEC41B40ED26",
+        "delay": 0.88,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:15:07.000000",
+        "pid": "210",
+        "client": "/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd/9D11F105-EA18-33E5-A227-C4E469ACD73C",
+        "delay": 0.88,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:15:07.000000",
+        "pid": "202",
+        "client": "/System/Library/PrivateFrameworks/AuthKit.framework/akd/47CC3CB6-A8A5-324D-A3D3-8CC7DB84FC1C",
+        "delay": 0.88,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:15:07.000000",
+        "pid": "159",
+        "client": "/usr/sbin/filecoordinationd/84312122-C05A-38EE-9541-9EEAD9887FC0",
+        "delay": 0.88,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:15:07.000000",
+        "pid": "37",
+        "client": "/usr/libexec/routined/98E5DD86-03C5-3C9C-AB21-3EF9682BCC58",
+        "delay": 0.88,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:15:07.000000",
+        "pid": "97",
+        "client": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter/98C035C8-F1EF-3EC3-8B40-92572B33D338",
+        "delay": 0.88,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:15:07.000000",
+        "pid": "100",
+        "client": "/usr/libexec/IOMFB_bics_daemon/892E45C6-BF8A-3BBC-8267-A1CA18C94245",
+        "delay": 0.88,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:15:07.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 0.88,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:35:44.000000",
+        "pid": "247",
+        "client": "/System/Library/PrivateFrameworks/NanoTimeKit.framework/nanotimekitcompaniond/93FE8E4C-21EA-36D9-8DAE-DEC41B40ED26",
+        "delay": 1.01,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:35:44.000000",
+        "pid": "209",
+        "client": "/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd/9D11F105-EA18-33E5-A227-C4E469ACD73C",
+        "delay": 1.01,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:35:44.000000",
+        "pid": "193",
+        "client": "/System/Library/PrivateFrameworks/AuthKit.framework/akd/47CC3CB6-A8A5-324D-A3D3-8CC7DB84FC1C",
+        "delay": 1.01,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:35:44.000000",
+        "pid": "164",
+        "client": "/System/Library/PrivateFrameworks/CoreCDP.framework/cdpd/687B10C2-60A0-31E4-9EA4-2EE9BA8C59A1",
+        "delay": 1.01,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:35:44.000000",
+        "pid": "160",
+        "client": "/usr/sbin/filecoordinationd/84312122-C05A-38EE-9541-9EEAD9887FC0",
+        "delay": 1.01,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:35:44.000000",
+        "pid": "37",
+        "client": "/usr/libexec/routined/98E5DD86-03C5-3C9C-AB21-3EF9682BCC58",
+        "delay": 1.01,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:35:44.000000",
+        "pid": "97",
+        "client": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter/98C035C8-F1EF-3EC3-8B40-92572B33D338",
+        "delay": 1.01,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:35:44.000000",
+        "pid": "100",
+        "client": "/usr/libexec/IOMFB_bics_daemon/892E45C6-BF8A-3BBC-8267-A1CA18C94245",
+        "delay": 1.01,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:35:44.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 1.01,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-03-13 19:35:44.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 2.0300000000000002,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "653",
+        "client": "/usr/libexec/routined/98E5DD86-03C5-3C9C-AB21-3EF9682BCC58",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "418",
+        "client": "/System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing/7BB5964F-E93B-3A3B-82C8-B7F5E88844CB",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "297",
+        "client": "/System/Library/Frameworks/AssetsLibrary.framework/Support/assetsd/43649DD2-C06D-3136-995C-E154D6B4F1E5",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "269",
+        "client": "/System/Library/TextInput/kbd/4F6C7FA4-BAC5-37EE-ABD7-6CA0E4F2A0BB",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "249",
+        "client": "/System/Library/PrivateFrameworks/NanoTimeKit.framework/nanotimekitcompaniond/93FE8E4C-21EA-36D9-8DAE-DEC41B40ED26",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "215",
+        "client": "/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd/9D11F105-EA18-33E5-A227-C4E469ACD73C",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "194",
+        "client": "/usr/libexec/searchpartyd/D84C81A5-37B9-30D9-A3B9-E64C53716373",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "159",
+        "client": "/System/Library/PrivateFrameworks/CoreCDP.framework/cdpd/687B10C2-60A0-31E4-9EA4-2EE9BA8C59A1",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "158",
+        "client": "/usr/sbin/filecoordinationd/84312122-C05A-38EE-9541-9EEAD9887FC0",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "139",
+        "client": "/usr/libexec/securityd/F54727B1-012C-3D7C-8A0E-0CACDB0B48E2",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "97",
+        "client": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter/98C035C8-F1EF-3EC3-8B40-92572B33D338",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "100",
+        "client": "/usr/libexec/IOMFB_bics_daemon/892E45C6-BF8A-3BBC-8267-A1CA18C94245",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 1.03,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "653",
+        "client": "/usr/libexec/routined/98E5DD86-03C5-3C9C-AB21-3EF9682BCC58",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "418",
+        "client": "/System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing/7BB5964F-E93B-3A3B-82C8-B7F5E88844CB",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "297",
+        "client": "/System/Library/Frameworks/AssetsLibrary.framework/Support/assetsd/43649DD2-C06D-3136-995C-E154D6B4F1E5",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "269",
+        "client": "/System/Library/TextInput/kbd/4F6C7FA4-BAC5-37EE-ABD7-6CA0E4F2A0BB",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "249",
+        "client": "/System/Library/PrivateFrameworks/NanoTimeKit.framework/nanotimekitcompaniond/93FE8E4C-21EA-36D9-8DAE-DEC41B40ED26",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "215",
+        "client": "/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd/9D11F105-EA18-33E5-A227-C4E469ACD73C",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "194",
+        "client": "/usr/libexec/searchpartyd/D84C81A5-37B9-30D9-A3B9-E64C53716373",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "159",
+        "client": "/System/Library/PrivateFrameworks/CoreCDP.framework/cdpd/687B10C2-60A0-31E4-9EA4-2EE9BA8C59A1",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "158",
+        "client": "/usr/sbin/filecoordinationd/84312122-C05A-38EE-9541-9EEAD9887FC0",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "139",
+        "client": "/usr/libexec/securityd/F54727B1-012C-3D7C-8A0E-0CACDB0B48E2",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "97",
+        "client": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter/98C035C8-F1EF-3EC3-8B40-92572B33D338",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "100",
+        "client": "/usr/libexec/IOMFB_bics_daemon/892E45C6-BF8A-3BBC-8267-A1CA18C94245",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 2.5700000000000003,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "653",
+        "client": "/usr/libexec/routined/98E5DD86-03C5-3C9C-AB21-3EF9682BCC58",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "418",
+        "client": "/System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing/7BB5964F-E93B-3A3B-82C8-B7F5E88844CB",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "297",
+        "client": "/System/Library/Frameworks/AssetsLibrary.framework/Support/assetsd/43649DD2-C06D-3136-995C-E154D6B4F1E5",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "269",
+        "client": "/System/Library/TextInput/kbd/4F6C7FA4-BAC5-37EE-ABD7-6CA0E4F2A0BB",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "249",
+        "client": "/System/Library/PrivateFrameworks/NanoTimeKit.framework/nanotimekitcompaniond/93FE8E4C-21EA-36D9-8DAE-DEC41B40ED26",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "215",
+        "client": "/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd/9D11F105-EA18-33E5-A227-C4E469ACD73C",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "194",
+        "client": "/usr/libexec/searchpartyd/D84C81A5-37B9-30D9-A3B9-E64C53716373",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "159",
+        "client": "/System/Library/PrivateFrameworks/CoreCDP.framework/cdpd/687B10C2-60A0-31E4-9EA4-2EE9BA8C59A1",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "158",
+        "client": "/usr/sbin/filecoordinationd/84312122-C05A-38EE-9541-9EEAD9887FC0",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "139",
+        "client": "/usr/libexec/securityd/F54727B1-012C-3D7C-8A0E-0CACDB0B48E2",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "97",
+        "client": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter/98C035C8-F1EF-3EC3-8B40-92572B33D338",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "100",
+        "client": "/usr/libexec/IOMFB_bics_daemon/892E45C6-BF8A-3BBC-8267-A1CA18C94245",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 4.61,
+        "times_delayed": 3
+    },
+    {
+        "isodate": "2025-04-07 15:28:16.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 6.65,
+        "times_delayed": 4
+    },
+    {
+        "isodate": "2025-04-07 15:48:55.000000",
+        "pid": "431",
+        "client": "/usr/libexec/duetexpertd/906F5108-D009-32A0-B218-52BCB28B93B6",
+        "delay": 1.04,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:48:55.000000",
+        "pid": "389",
+        "client": "/System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service/F873C45F-EEA4-3704-A025-C9AB3DCDA710",
+        "delay": 1.04,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:48:55.000000",
+        "pid": "210",
+        "client": "/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd/9D11F105-EA18-33E5-A227-C4E469ACD73C",
+        "delay": 1.04,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:48:55.000000",
+        "pid": "157",
+        "client": "/usr/sbin/filecoordinationd/84312122-C05A-38EE-9541-9EEAD9887FC0",
+        "delay": 1.04,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:48:55.000000",
+        "pid": "37",
+        "client": "/usr/libexec/routined/98E5DD86-03C5-3C9C-AB21-3EF9682BCC58",
+        "delay": 1.04,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:48:55.000000",
+        "pid": "97",
+        "client": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter/98C035C8-F1EF-3EC3-8B40-92572B33D338",
+        "delay": 1.04,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:48:55.000000",
+        "pid": "100",
+        "client": "/usr/libexec/IOMFB_bics_daemon/892E45C6-BF8A-3BBC-8267-A1CA18C94245",
+        "delay": 1.04,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:48:55.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 1.04,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-07 15:48:55.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 2.09,
+        "times_delayed": 2
+    },
+    {
+        "isodate": "2025-04-15 20:14:23.000000",
+        "pid": "634",
+        "client": "/System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service/F873C45F-EEA4-3704-A025-C9AB3DCDA710",
+        "delay": 0.94,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-15 20:14:23.000000",
+        "pid": "58",
+        "client": "/System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/softwareupdated/D1ECA021-28A5-3541-992B-C87F27E770A5",
+        "delay": 0.94,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-15 20:14:23.000000",
+        "pid": "159",
+        "client": "/System/Library/PrivateFrameworks/CoreCDP.framework/cdpd/687B10C2-60A0-31E4-9EA4-2EE9BA8C59A1",
+        "delay": 0.94,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-15 20:14:23.000000",
+        "pid": "37",
+        "client": "/usr/libexec/routined/98E5DD86-03C5-3C9C-AB21-3EF9682BCC58",
+        "delay": 0.94,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-15 20:14:23.000000",
+        "pid": "97",
+        "client": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter/98C035C8-F1EF-3EC3-8B40-92572B33D338",
+        "delay": 0.94,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-15 20:14:23.000000",
+        "pid": "100",
+        "client": "/usr/libexec/IOMFB_bics_daemon/892E45C6-BF8A-3BBC-8267-A1CA18C94245",
+        "delay": 0.94,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-15 20:14:23.000000",
+        "pid": "51",
+        "client": "/usr/libexec/remoted/4877310C-4264-3CCD-8DA9-173DB0BB2230",
+        "delay": 0.94,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-15 20:14:23.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 0.94,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-20 13:11:05.000000",
+        "pid": "100",
+        "client": "/usr/libexec/IOMFB_bics_daemon/892E45C6-BF8A-3BBC-8267-A1CA18C94245",
+        "delay": 0.82,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-20 13:11:05.000000",
+        "pid": "535",
+        "client": "/System/Library/PrivateFrameworks/IntelligencePlatformCore.framework/intelligenceplatformd/7127D650-CF3C-3A82-8A65-A3A2412FA3EA",
+        "delay": 0.82,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-20 13:11:05.000000",
+        "pid": "156",
+        "client": "/usr/libexec/bluetoothuserd/FD3041C6-8AFF-3C1F-8AD7-762A137F9505",
+        "delay": 0.82,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-20 13:11:05.000000",
+        "pid": "97",
+        "client": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter/98C035C8-F1EF-3EC3-8B40-92572B33D338",
+        "delay": 0.82,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-20 13:11:05.000000",
+        "pid": "37",
+        "client": "/usr/libexec/routined/98E5DD86-03C5-3C9C-AB21-3EF9682BCC58",
+        "delay": 0.82,
+        "times_delayed": 1
+    },
+    {
+        "isodate": "2025-04-20 13:11:05.000000",
+        "pid": "0",
+        "client": "/kernel/20D07C2E-B54A-3B9C-88B3-6DF04CE89A1A",
+        "delay": 0.82,
+        "times_delayed": 1
+    }
+]

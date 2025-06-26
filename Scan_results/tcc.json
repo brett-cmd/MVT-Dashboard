@@ -1,0 +1,338 @@
+[
+    {
+        "service": "kTCCServiceFocusStatus",
+        "client": "com.apple.MobileSMS",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "user_consent",
+        "last_modified": "2025-03-13 19:14:45.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.Preferences",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-07 15:00:43.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.Health",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-07 15:00:43.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.mobilesafari",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-07 15:00:44.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.Passbook",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-07 15:00:44.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.shortcuts",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-07 15:00:44.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.Maps",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-07 15:00:47.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.weather",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "service_policy",
+        "last_modified": "2025-04-07 15:25:04.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.AccessibilityUIServer",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-07 15:28:41.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.AccessibilityUIServer",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "service_policy",
+        "last_modified": "2025-04-07 15:28:46.000000"
+    },
+    {
+        "service": "kTCCServiceUserTracking",
+        "client": "com.ubercab.UberClient",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "user_consent",
+        "last_modified": "2025-04-07 15:29:04.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.mobilecal",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-07 15:29:44.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.mobileslideshow",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-07 15:48:31.000000"
+    },
+    {
+        "service": "kTCCServiceWebKitIntelligentTrackingPrevention",
+        "client": "com.apple.mobilesafari",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "service_policy",
+        "last_modified": "2025-04-15 18:00:10.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.mobilesafari",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-15 18:00:11.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.purplebuddy",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-15 19:41:13.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.Preferences",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-15 20:05:36.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.MobileSMS",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-17 20:58:14.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.mobilephone",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-22 14:22:42.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.shortcuts",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "service_policy",
+        "last_modified": "2025-04-22 15:13:29.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.InCallService",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-22 15:56:20.000000"
+    },
+    {
+        "service": "kTCCServiceWebKitIntelligentTrackingPrevention",
+        "client": "com.apple.SafariViewService",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "service_policy",
+        "last_modified": "2025-04-24 13:27:49.000000"
+    },
+    {
+        "service": "kTCCServiceCamera",
+        "client": "com.duosecurity.DuoMobile",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "user_consent",
+        "last_modified": "2025-04-24 16:02:00.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.HeadphoneProxService",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-24 16:10:07.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.HeadphoneProxService",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "service_policy",
+        "last_modified": "2025-04-24 16:10:07.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.weather",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "service_policy",
+        "last_modified": "2025-04-26 15:16:39.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.freeform",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-26 17:28:48.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.freeform",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-26 17:28:48.000000"
+    },
+    {
+        "service": "kTCCServiceWebKitIntelligentTrackingPrevention",
+        "client": "com.google.chrome.ios",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "service_policy",
+        "last_modified": "2025-04-26 18:26:34.000000"
+    },
+    {
+        "service": "kTCCServiceMotion",
+        "client": "com.apple.Health",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "entitled",
+        "last_modified": "2025-04-26 18:28:55.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.news",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "service_policy",
+        "last_modified": "2025-04-26 22:08:36.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.apple.mobiletimer",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-04-28 02:33:44.000000"
+    },
+    {
+        "service": "kTCCServiceUbiquity",
+        "client": "com.ubercab.UberClient",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "service_policy",
+        "last_modified": "2025-04-30 16:02:33.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.findmy.findmylocated",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-05-01 19:02:43.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.facetimemessagestored",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-05-01 19:02:43.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.businessservicesd",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-05-01 19:02:43.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.upload-request-proxy.com.apple.photos.cloud",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-05-01 19:02:43.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.passd",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-05-01 19:02:43.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.imagent",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-05-01 19:02:43.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.ScreenTimeAgent",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-05-01 19:02:44.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.assistant.assistantd",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-05-01 19:03:47.000000"
+    },
+    {
+        "service": "kTCCServiceLiverpool",
+        "client": "com.apple.security.cuttlefish",
+        "client_type": "bundle_id",
+        "auth_value": "allowed",
+        "auth_reason_desc": "system_set",
+        "last_modified": "2025-05-01 19:03:47.000000"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "shortcut_id": 2,
+        "shortcut_name": "Email",
+        "modified_date": "2025-05-01 17:16:01.823903",
+        "description": "Open App, Create New Private Tab and Open URLs",
+        "parsed_actions": 3,
+        "action_urls": [],
+        "isodate": "2023-11-20 20:44:57.476000"
+    },
+    {
+        "shortcut_id": 4,
+        "shortcut_name": "What\u2019s a shortcut?",
+        "modified_date": "2025-04-07 15:26:07.178938",
+        "description": null,
+        "parsed_actions": 37,
+        "action_urls": [],
+        "isodate": "2023-11-20 20:44:57.477000"
+    },
+    {
+        "shortcut_id": 7,
+        "shortcut_name": "Text Last Image",
+        "modified_date": "2025-04-07 15:25:38.241401",
+        "description": null,
+        "parsed_actions": 2,
+        "action_urls": [],
+        "isodate": "2024-10-16 18:03:39.629000"
+    },
+    {
+        "shortcut_id": 9,
+        "shortcut_name": "Shazam shortcut",
+        "modified_date": "2025-04-07 15:25:38.621493",
+        "description": null,
+        "parsed_actions": 32,
+        "action_urls": [],
+        "isodate": "2024-10-16 18:03:39.619000"
+    },
+    {
+        "shortcut_id": 10,
+        "shortcut_name": "Take a Break",
+        "modified_date": "2025-04-07 15:25:38.936525",
+        "description": null,
+        "parsed_actions": 13,
+        "action_urls": [],
+        "isodate": "2024-10-16 18:03:39.631000"
+    }
+]

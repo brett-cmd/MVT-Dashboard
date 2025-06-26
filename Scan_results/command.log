@@ -1,0 +1,815 @@
+2025-06-17 11:23:05,833 - mvt.ios.cmd_check_fs - INFO - Parsing STIX2 indicators file at path /Users/simcoehall/Library/Application Support/mvt/indicators/raw.githubusercontent.com_mvt-project_mvt-indicators_main_intellexa_predator_predator.stix2
+2025-06-17 11:23:05,847 - mvt.ios.cmd_check_fs - DEBUG - Extracted 562 indicators for collection with name "Predator"
+2025-06-17 11:23:05,847 - mvt.ios.cmd_check_fs - INFO - Parsing STIX2 indicators file at path /Users/simcoehall/Library/Application Support/mvt/indicators/raw.githubusercontent.com_mvt-project_mvt-indicators_main_2023-04-11_quadream_kingspawn.stix2
+2025-06-17 11:23:05,850 - mvt.ios.cmd_check_fs - DEBUG - Extracted 167 indicators for collection with name "KingSpawn"
+2025-06-17 11:23:05,850 - mvt.ios.cmd_check_fs - INFO - Parsing STIX2 indicators file at path /Users/simcoehall/Library/Application Support/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2024-12-16_serbia_novispy_novispy.stix2
+2025-06-17 11:23:05,851 - mvt.ios.cmd_check_fs - DEBUG - Extracted 18 indicators for collection with name "NoviSpy"
+2025-06-17 11:23:05,851 - mvt.ios.cmd_check_fs - INFO - Parsing STIX2 indicators file at path /Users/simcoehall/Library/Application Support/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2024-05-02_wintego_helios_wintego_helios.stix2
+2025-06-17 11:23:05,854 - mvt.ios.cmd_check_fs - DEBUG - Extracted 175 indicators for collection with name "Wintego Helios"
+2025-06-17 11:23:05,854 - mvt.ios.cmd_check_fs - INFO - Parsing STIX2 indicators file at path /Users/simcoehall/Library/Application Support/mvt/indicators/raw.githubusercontent.com_mvt-project_mvt-indicators_main_2022-06-23_rcs_lab_rcs.stix2
+2025-06-17 11:23:05,855 - mvt.ios.cmd_check_fs - DEBUG - Extracted 40 indicators for collection with name "RCSLab"
+2025-06-17 11:23:05,855 - mvt.ios.cmd_check_fs - INFO - Parsing STIX2 indicators file at path /Users/simcoehall/Library/Application Support/mvt/indicators/raw.githubusercontent.com_AssoEchap_stalkerware-indicators_master_generated_stalkerware.stix2
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 798 indicators for collection with name "TheTruthSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 187 indicators for collection with name "HelloSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 6 indicators for collection with name "SpyAdvice"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 99 indicators for collection with name "Reptilicus"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 23 indicators for collection with name "PhoneSheriff"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 19 indicators for collection with name "OwnSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 192 indicators for collection with name "Cocospy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 11 indicators for collection with name "VIPTrack"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 85 indicators for collection with name "EasyLogger"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 119 indicators for collection with name "Hoverwatch"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 32 indicators for collection with name "LetMeSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 46 indicators for collection with name "Snoopza"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 41 indicators for collection with name "TrackMyPhones"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 139 indicators for collection with name "FlexiSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 124 indicators for collection with name "Cerberus"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 252 indicators for collection with name "mSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 113 indicators for collection with name "MeuSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 46 indicators for collection with name "AppSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 144 indicators for collection with name "MobileTrackerFree"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 34 indicators for collection with name "iKeyMonitor"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 13 indicators for collection with name "PanSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 9 indicators for collection with name "AndroidLost"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "Metasploit"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 20 indicators for collection with name "Spy24"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 53 indicators for collection with name "CatWatchful"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 91 indicators for collection with name "HighsterMobile"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 15 indicators for collection with name "iMonitorSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 44 indicators for collection with name "MobileTool"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 28 indicators for collection with name "ShadowSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 49 indicators for collection with name "SpyHuman"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 18 indicators for collection with name "uMobix"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 7 indicators for collection with name "Spymie"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 28 indicators for collection with name "TheOneSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 12 indicators for collection with name "ClevGuard"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 535 indicators for collection with name "EasyPhoneTrack"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 10 indicators for collection with name "bark"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 16 indicators for collection with name "SpyLive360"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 28 indicators for collection with name "XNSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 8 indicators for collection with name "MobiSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 51 indicators for collection with name "NeoSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 99 indicators for collection with name "AllTracker"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 231 indicators for collection with name "SpyPhoneApp"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 81 indicators for collection with name "AndroidMonitor"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 14 indicators for collection with name "TalkLog"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 19 indicators for collection with name "SpyMasterPro"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 48 indicators for collection with name "FreeAndroidSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 6 indicators for collection with name "NetSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 4 indicators for collection with name "Spyier"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 6 indicators for collection with name "CouplerTracker"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 7 indicators for collection with name "GPSTrackerLoki"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "SpyApp247"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2 indicators for collection with name "SpyMug"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 10 indicators for collection with name "WtSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 9 indicators for collection with name "Xnore"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 20 indicators for collection with name "EspiaoAndroid"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 42 indicators for collection with name "pcTattletale"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 8 indicators for collection with name "SpyEra"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 4 indicators for collection with name "AntiFurtoDroid"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 17 indicators for collection with name "CallSMSTracker"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 14 indicators for collection with name "AiSpyer"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 10 indicators for collection with name "SpyToApp"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 7 indicators for collection with name "BlurSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 8 indicators for collection with name "AppMia"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "SecretCamRecorder"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 15 indicators for collection with name "Unisafe"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 72 indicators for collection with name "TrackView"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 11 indicators for collection with name "TrackingSmartphone"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 10 indicators for collection with name "SpyphoneMobileTracker"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 4 indicators for collection with name "OneLocator"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 25 indicators for collection with name "EvaSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 6 indicators for collection with name "RealtimeSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 37 indicators for collection with name "jjspy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 278 indicators for collection with name "AndroidSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 70 indicators for collection with name "AndroidPolice"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 6 indicators for collection with name "FindMyPhone"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 10 indicators for collection with name "Bulgok"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 50 indicators for collection with name "Tracku"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 76 indicators for collection with name "KidsShield"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 5 indicators for collection with name "NemoSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 10 indicators for collection with name "SpyKontrol"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 120 indicators for collection with name "Trackplus"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 9 indicators for collection with name "MobileSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 37 indicators for collection with name "WebWatcher"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 8 indicators for collection with name "NexSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2 indicators for collection with name "juju"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "mSpyitaly"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 11 indicators for collection with name "MyCellSpy"
+2025-06-17 11:23:06,857 - mvt.ios.cmd_check_fs - DEBUG - Extracted 10 indicators for collection with name "Spylix"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 26 indicators for collection with name "MonitorUltra"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 8 indicators for collection with name "SentryPC"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 6 indicators for collection with name "TheWiSpy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 9 indicators for collection with name "Observer"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 22 indicators for collection with name "Mrecorder"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 7 indicators for collection with name "PhoneSpy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 10 indicators for collection with name "ShadySpy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 39 indicators for collection with name "AbsoluTrack"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "SmartKeylogger"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 27 indicators for collection with name "Traccar"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 5 indicators for collection with name "SpyNote"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 5 indicators for collection with name "FlashKeylogger"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 182 indicators for collection with name "MobiStealth"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2 indicators for collection with name "SMSForward"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2 indicators for collection with name "Ahmyth"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "xHunter"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 5 indicators for collection with name "SpyTec"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "SpyTek"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "BosSpy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 9 indicators for collection with name "Fenced"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2 indicators for collection with name "RastreadorDeNamorado"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "Intertel"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "SpyFly"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "MocoSpy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "MzanziSpy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "RecomSpy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "SwiftMobileSpy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 4 indicators for collection with name "Trackji"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 6 indicators for collection with name "XDSpy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2 indicators for collection with name "XploitSPY"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "SpySMS"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "DroidWatcher"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "Spyzier"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "AndroidSpyApp"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "SpyDroid"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "SpyAppGhazi"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "Curiosus"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "LoveSpy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "ISpy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "PatanSpyApp"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "Dash"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 42 indicators for collection with name "SpyApp"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 7 indicators for collection with name "MySpyApps"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 35 indicators for collection with name "OneSpy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 5 indicators for collection with name "Android007"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2 indicators for collection with name "RioSPY"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 8 indicators for collection with name "WheresMyDroid"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 8 indicators for collection with name "WiseMo"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 9 indicators for collection with name "FindMyKids"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 4 indicators for collection with name "MagMonitor"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 24 indicators for collection with name "BrunoEspiao"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 30 indicators for collection with name "Spyone"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 4 indicators for collection with name "eagleSPY"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 6 indicators for collection with name "PhoneMonitor"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "Buhsam"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2 indicators for collection with name "AndroRat"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 12 indicators for collection with name "WiseMo"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 15 indicators for collection with name "FamiSafe"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2 indicators for collection with name "KasperskySafeKids"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 17 indicators for collection with name "KidsControl"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 8 indicators for collection with name "FindMyKids"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 6 indicators for collection with name "Accountable2you"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 7 indicators for collection with name "ZoeMob"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 17 indicators for collection with name "Life360"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 5 indicators for collection with name "MicrosoftFamilySafe"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 10 indicators for collection with name "GeoZilla"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 9 indicators for collection with name "KidsLox"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 4 indicators for collection with name "FamiShield"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 5 indicators for collection with name "Qustodio"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "ScreenTime"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 7 indicators for collection with name "MMGuardian"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1 indicators for collection with name "FlareFamilyLocator"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 5 indicators for collection with name "FamilyOrbit"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "Trulpe"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "Boomrang"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "MobileFence"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2 indicators for collection with name "Kidgy"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2 indicators for collection with name "Kiddoware"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 6 indicators for collection with name "Netnanny"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2 indicators for collection with name "SeekDroid"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "LockItTight"
+2025-06-17 11:23:06,858 - mvt.ios.cmd_check_fs - DEBUG - Extracted 3 indicators for collection with name "SafeNet"
+2025-06-17 11:23:06,860 - mvt.ios.cmd_check_fs - INFO - Parsing STIX2 indicators file at path /Users/simcoehall/Library/Application Support/mvt/indicators/raw.githubusercontent.com_mvt-project_mvt-indicators_main_2023-07-25_wyrmspy_dragonegg_wyrmspy_dragonegg.stix2
+2025-06-17 11:23:06,862 - mvt.ios.cmd_check_fs - DEBUG - Extracted 53 indicators for collection with name "WyrmSpy_DragonEgg"
+2025-06-17 11:23:06,862 - mvt.ios.cmd_check_fs - INFO - Parsing STIX2 indicators file at path /Users/simcoehall/Library/Application Support/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-07-18_nso_pegasus.stix2
+2025-06-17 11:23:06,939 - mvt.ios.cmd_check_fs - DEBUG - Extracted 1549 indicators for collection with name "Pegasus"
+2025-06-17 11:23:06,939 - mvt.ios.cmd_check_fs - INFO - Parsing STIX2 indicators file at path /Users/simcoehall/Library/Application Support/mvt/indicators/raw.githubusercontent.com_mvt-project_mvt-indicators_main_2023-06_01_operation_triangulation_operation_triangulation.stix2
+2025-06-17 11:23:06,941 - mvt.ios.cmd_check_fs - DEBUG - Extracted 112 indicators for collection with name "OperationTriangulation"
+2025-06-17 11:23:06,941 - mvt.ios.cmd_check_fs - INFO - Parsing STIX2 indicators file at path /Users/simcoehall/Library/Application Support/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2023-03-29_android_campaign_malware.stix2
+2025-06-17 11:23:07,092 - mvt.ios.cmd_check_fs - DEBUG - Extracted 2187 indicators for collection with name "MercenarySpywareCampaign"
+2025-06-17 11:23:07,093 - mvt.ios.cmd_check_fs - INFO - Loaded a total of 10722 unique indicators
+2025-06-17 11:23:07,094 - mvt - INFO - Checking iOS filesystem located at: /Users/simcoehall/Desktop/Merec
+2025-06-17 11:23:07,094 - mvt.ios.modules.fs.cache_files - INFO - Running module CacheFiles...
+2025-06-17 11:23:10,487 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.softwareupdateservicesd/Cache.db
+2025-06-17 11:23:10,491 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.ClipServices.clipserviced/Cache.db
+2025-06-17 11:23:10,494 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.healthappd/Cache.db
+2025-06-17 11:23:10,496 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.ap.promotedcontentd/Cache.db
+2025-06-17 11:23:10,497 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.mediastream.mstreamd/Cache.db
+2025-06-17 11:23:10,497 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.kbd/Cache.db
+2025-06-17 11:23:10,517 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.coreaccessories.ACCFeatureAudioProductService/Cache.db
+2025-06-17 11:23:10,518 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.akd/Cache.db
+2025-06-17 11:23:10,519 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.appstored/Cache.db
+2025-06-17 11:23:10,520 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.attributionkitd/Cache.db
+2025-06-17 11:23:10,521 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.Preferences/Cache.db
+2025-06-17 11:23:10,522 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.Spotlight/Cache.db
+2025-06-17 11:23:10,523 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.fitcored/Cache.db
+2025-06-17 11:23:10,524 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.DeviceCheckInternal/Cache.db
+2025-06-17 11:23:10,525 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.atc/Cache.db
+2025-06-17 11:23:10,526 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.managedappdistributiond/Cache.db
+2025-06-17 11:23:10,527 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.secureelementservice/Cache.db
+2025-06-17 11:23:10,527 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.imtransferservices.IMTransferAgent/Cache.db
+2025-06-17 11:23:10,528 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.accountsd/Cache.db
+2025-06-17 11:23:10,529 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.NewDeviceOutreach/Cache.db
+2025-06-17 11:23:10,530 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.tipsd/Cache.db
+2025-06-17 11:23:10,533 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.itunescloudd/Cache.db
+2025-06-17 11:23:10,533 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.safetyalertsd/Cache.db
+2025-06-17 11:23:10,539 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.bookassetd/Cache.db
+2025-06-17 11:23:10,540 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.mediaplaybackd/Cache.db
+2025-06-17 11:23:10,541 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.passd/Cache.db
+2025-06-17 11:23:10,545 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.remindd/Cache.db
+2025-06-17 11:23:10,545 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.dataaccess.dataaccessd/Cache.db
+2025-06-17 11:23:10,546 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.Safari.SafeBrowsing/Cache.db
+2025-06-17 11:23:10,547 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.itunesstored/Cache.db
+2025-06-17 11:23:10,553 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.appinstallationmetricsd/Cache.db
+2025-06-17 11:23:10,554 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.AppleAccount/Cache.db
+2025-06-17 11:23:10,555 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.amsaccountsd/Cache.db
+2025-06-17 11:23:10,556 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.storekitd/Cache.db
+2025-06-17 11:23:10,557 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.exchangesyncd/Cache.db
+2025-06-17 11:23:10,557 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.appstorecomponentsd/Cache.db
+2025-06-17 11:23:10,558 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.email.maild/Cache.db
+2025-06-17 11:23:10,559 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.purplebuddy/Cache.db
+2025-06-17 11:23:10,560 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/sharedCaches/com.apple.Radio.RadioRequestURLCache/Cache.db
+2025-06-17 11:23:10,560 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/sharedCaches/com.apple.iTunesStore.NSURLCache/Cache.db
+2025-06-17 11:23:10,561 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/sharedCaches/com.apple.Radio.RadioImageCache/Cache.db
+2025-06-17 11:23:10,562 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.watchlistd/Cache.db
+2025-06-17 11:23:10,562 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.translationd/Cache.db
+2025-06-17 11:23:10,563 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.ctcategories.service/Cache.db
+2025-06-17 11:23:10,564 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.videosubscriptionsd/Cache.db
+2025-06-17 11:23:10,565 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.voicebankingd/Cache.db
+2025-06-17 11:23:10,566 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.amsengagementd/Cache.db
+2025-06-17 11:23:10,569 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.ap.adprivacyd/Cache.db
+2025-06-17 11:23:10,570 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.coreidv.coreidvd/url/Cache.db
+2025-06-17 11:23:10,570 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.accounts.dom/Cache.db
+2025-06-17 11:23:10,571 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Caches/com.apple.family/Cache.db
+2025-06-17 11:23:10,577 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Shared/AppGroup/FF246EE8-6D3C-4F38-8714-0D965A862617/Library/Caches/url/Cache.db
+2025-06-17 11:23:10,587 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Shared/AppGroup/01A47204-8691-4EB6-BC70-CD15C3BCB768/EngagedCompletions/Cache.db
+2025-06-17 11:23:10,720 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/PluginKitPlugin/8C302737-5197-4A4A-BB35-FC2A71C23019/Library/Caches/com.apple.news.widget/CK-at-Edge-URL-Cache/Cache.db
+2025-06-17 11:23:10,731 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/PluginKitPlugin/630BEAAC-EC49-4CF1-88BE-B348059DD4E0/Library/Caches/com.apple.AppleAccountUI.AAUIFollowUpExtension/Cache.db
+2025-06-17 11:23:10,744 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/PluginKitPlugin/3E44AAFF-18E9-4DE7-8504-D02B9EB562BF/Library/Caches/com.apple.Music.MusicWidgets/Cache.db
+2025-06-17 11:23:10,754 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/PluginKitPlugin/42674866-0357-4058-8201-61773E9DCA4F/Library/Caches/com.apple.weather.widget/Cache.db
+2025-06-17 11:23:10,776 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/PluginKitPlugin/B7158A79-8F7C-4C32-86E4-8DF007E831D8/Library/Caches/com.apple.AppleMediaServicesUI.UtilityExtension/Cache.db
+2025-06-17 11:23:10,795 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/PluginKitPlugin/928ADC8E-C0C2-4767-87DD-479FE82D3D8F/Library/Caches/com.ubercab.UberClient.notificationservice/Cache.db
+2025-06-17 11:23:10,810 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/8EB2635A-E193-4AB1-B0A7-E9FCB6017265/Library/Caches/MapOverlays/Cache.db
+2025-06-17 11:23:10,818 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/8EB2635A-E193-4AB1-B0A7-E9FCB6017265/Library/Caches/com.apple.weather/Cache.db
+2025-06-17 11:23:10,867 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/92CACC0C-4551-433D-8FF6-922F51F3C9B8/Library/Caches/com.google.chrome.ios/Cache.db
+2025-06-17 11:23:10,869 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/92CACC0C-4551-433D-8FF6-922F51F3C9B8/Library/Caches/com.google.chrome.ios/ELMImageNodeURLCache/Cache.db
+2025-06-17 11:23:10,882 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/3459BCBD-031A-44DD-B765-57F6FEFD6EF2/Library/Caches/com.apple.SafariViewService/Cache.db
+2025-06-17 11:23:10,883 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/3459BCBD-031A-44DD-B765-57F6FEFD6EF2/Library/Caches/com.apple.Safari.PasswordBreachAgent/Cache.db
+2025-06-17 11:23:10,884 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/3459BCBD-031A-44DD-B765-57F6FEFD6EF2/Library/Caches/com.apple.AuthenticationServicesCore.AuthenticationServicesAgent/Cache.db
+2025-06-17 11:23:10,885 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/3459BCBD-031A-44DD-B765-57F6FEFD6EF2/Library/Caches/com.apple.mobilesafari/Cache.db
+2025-06-17 11:23:10,896 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/5666F4A5-EAB9-4A12-BC50-257AEBEAED66/Library/Caches/com.ubercab.UberClient/Cache.db
+2025-06-17 11:23:10,898 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/5666F4A5-EAB9-4A12-BC50-257AEBEAED66/Library/Caches/com.ubercab.UberClient/com.uber.images/Cache.db
+2025-06-17 11:23:10,908 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/DE3A2F19-CA10-4B73-99CB-637A8AC4AE4B/Library/Caches/com.apple.Passbook/Cache.db
+2025-06-17 11:23:10,916 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/AEBA22FB-1177-446C-8A47-3CE0E35D9C4A/Library/Caches/com.apple.AppleAccount/Cache.db
+2025-06-17 11:23:10,916 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/AEBA22FB-1177-446C-8A47-3CE0E35D9C4A/Library/Caches/com.apple.Health/Cache.db
+2025-06-17 11:23:10,947 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/76DC987A-EB41-4053-8A51-7F11CC2BED21/Library/Caches/com.apple.SleepLockScreen/Cache.db
+2025-06-17 11:23:10,960 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/3B9C57E4-C679-4F12-8E1D-4C977CF8169A/Library/Caches/com.aircanada.csp.aciclient/Cache.db
+2025-06-17 11:23:10,968 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/CBC8D817-CCA7-4B27-B94D-B8AF6F2DD960/Library/Caches/com.apple.WebSheet/Cache.db
+2025-06-17 11:23:10,971 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/EA2A6603-629A-416C-A969-B1E0F7AE384D/Library/Caches/com.apple.AppStore/Cache.db
+2025-06-17 11:23:10,975 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/EA2A6603-629A-416C-A969-B1E0F7AE384D/Library/Caches/com.apple.AppleAccount/Cache.db
+2025-06-17 11:23:10,979 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/DDEFD013-B9AE-480D-8EB1-B97431906E32/Library/Caches/com.apple.shortcuts/Cache.db
+2025-06-17 11:23:10,981 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/BB043972-68EA-450E-9598-D6D02A656E53/Library/Caches/com.duosecurity.DuoMobile/Cache.db
+2025-06-17 11:23:10,983 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/C4716042-E6F3-40E4-93E3-43D95C8D53AD/Library/Caches/com.apple.freeform/Cache.db
+2025-06-17 11:23:10,985 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/6AB310EB-AA53-4D66-8D85-C9C27E80F201/Library/Caches/com.apple.HeadphoneProxService/Cache.db
+2025-06-17 11:23:10,991 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/8EBD6AA7-854D-43B3-94CF-11E0530FDD46/Library/Caches/com.google.Maps/Cache.db
+2025-06-17 11:23:10,997 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/E92DFAB3-D745-4D39-BC1F-76D55AC0CAFE/Library/Caches/com.apple.news/Cache.db
+2025-06-17 11:23:10,999 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/E92DFAB3-D745-4D39-BC1F-76D55AC0CAFE/Library/Caches/com.apple.news/CK-at-Edge-URL-Cache/Cache.db
+2025-06-17 11:23:11,073 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/root/Library/Caches/com.apple.mobileassetd/Cache.db
+2025-06-17 11:23:11,080 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/root/Library/Caches/com.apple.backupd/Cache.db
+2025-06-17 11:23:11,081 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/root/Library/Caches/com.apple.mobileactivationd/Cache.db
+2025-06-17 11:23:11,081 - mvt.ios.modules.fs.cache_files - INFO - Processing cache file at path: /Users/simcoehall/Desktop/Merec/private/var/root/Library/Caches/com.apple.location.tilesservice/Cache.db
+2025-06-17 11:23:12,611 - mvt.ios.modules.fs.cache_files - INFO - The CacheFiles module produced no detections!
+2025-06-17 11:23:12,629 - mvt.ios.modules.fs.filesystem - INFO - Running module Filesystem...
+2025-06-17 11:23:47,671 - mvt.ios.modules.fs.filesystem - WARNING - Found known suspicious process name mentioned in file at path "private/var/mobile/Containers/Data/Application/5666F4A5-EAB9-4A12-BC50-257AEBEAED66/Library/Application Support/PersistentStorage/Store/HCVRiderEducationStoreKey/payload" matching indicators from "Pegasus"
+2025-06-17 11:23:57,493 - mvt.ios.modules.fs.net_netusage - INFO - Running module Netusage...
+2025-06-17 11:23:57,494 - mvt.ios.modules.fs.net_netusage - INFO - Found NetUsage database at path: /Users/simcoehall/Desktop/Merec/private/var/networkd/db/netusage.sqlite
+2025-06-17 11:23:57,499 - mvt.ios.modules.fs.net_netusage - INFO - Extracted information on 226 processes
+2025-06-17 11:23:57,500 - mvt.ios.modules.fs.net_netusage - INFO - Extended search for suspicious processes ...
+2025-06-17 11:24:07,513 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: mDNSResponder
+2025-06-17 11:24:07,522 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/sbin/mDNSResponder
+2025-06-17 11:24:07,522 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.CommCenterMobileHelper
+2025-06-17 11:24:07,531 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.CommCenterMobileHelper
+2025-06-17 11:24:07,532 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.CommCenter
+2025-06-17 11:24:07,541 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.CommCenter
+2025-06-17 11:24:07,541 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: timed
+2025-06-17 11:24:07,550 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/timed
+2025-06-17 11:24:07,551 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.nsurlsessiond
+2025-06-17 11:24:07,557 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/UserEventPlugins/com.apple.nsurlsessiond.plugin/com.apple.nsurlsessiond
+2025-06-17 11:24:07,557 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.akd
+2025-06-17 11:24:07,566 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.akd
+2025-06-17 11:24:07,567 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.fitcored
+2025-06-17 11:24:07,576 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.fitcored
+2025-06-17 11:24:07,576 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: bookassetd
+2025-06-17 11:24:07,581 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/BookLibraryCore.framework/Support/bookassetd
+2025-06-17 11:24:07,582 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.apsd
+2025-06-17 11:24:07,590 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.apsd
+2025-06-17 11:24:07,591 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.locationd
+2025-06-17 11:24:07,600 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.locationd
+2025-06-17 11:24:07,600 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.appstored
+2025-06-17 11:24:07,609 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.appstored
+2025-06-17 11:24:07,610 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.telephonyutilities.callservicesd
+2025-06-17 11:24:07,619 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.telephonyutilities.callservicesd
+2025-06-17 11:24:07,619 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.geod
+2025-06-17 11:24:07,629 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.geod
+2025-06-17 11:24:07,629 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.swcd
+2025-06-17 11:24:07,638 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.swcd
+2025-06-17 11:24:07,638 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.callhistory.sync-helper
+2025-06-17 11:24:07,647 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.callhistory.sync-helper
+2025-06-17 11:24:07,648 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.siriknowledged
+2025-06-17 11:24:07,657 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.siriknowledged
+2025-06-17 11:24:07,657 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.atc
+2025-06-17 11:24:07,667 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.atc
+2025-06-17 11:24:07,667 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: watchlistd
+2025-06-17 11:24:07,671 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/WatchListKit.framework/Support/watchlistd
+2025-06-17 11:24:07,671 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.storekitd
+2025-06-17 11:24:07,680 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.storekitd
+2025-06-17 11:24:07,681 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.itunesstored
+2025-06-17 11:24:07,690 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.itunesstored
+2025-06-17 11:24:07,690 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.passd
+2025-06-17 11:24:07,699 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.passd
+2025-06-17 11:24:07,700 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.identityservicesd
+2025-06-17 11:24:07,709 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.identityservicesd
+2025-06-17 11:24:07,709 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: devicecheckd
+2025-06-17 11:24:07,713 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd
+2025-06-17 11:24:07,713 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.routined
+2025-06-17 11:24:07,721 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.routined
+2025-06-17 11:24:07,722 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.appleaccountd
+2025-06-17 11:24:07,731 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.appleaccountd
+2025-06-17 11:24:07,731 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: CloudTelemetryService
+2025-06-17 11:24:07,737 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/CloudTelemetry.framework/XPCServices/CloudTelemetryService.xpc/CloudTelemetryService
+2025-06-17 11:24:07,737 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.trustd
+2025-06-17 11:24:07,746 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.trustd (However, the process name might have been truncated in the database)
+2025-06-17 11:24:07,747 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.accountsd
+2025-06-17 11:24:07,756 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.accountsd
+2025-06-17 11:24:07,756 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: mobileactivationd
+2025-06-17 11:24:07,765 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/mobileactivationd
+2025-06-17 11:24:07,765 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.mobileassetd
+2025-06-17 11:24:07,774 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.mobileassetd
+2025-06-17 11:24:07,775 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.cloudd
+2025-06-17 11:24:07,784 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.cloudd (However, the process name might have been truncated in the database)
+2025-06-17 11:24:07,784 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.icloud.searchpartyd
+2025-06-17 11:24:07,793 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.icloud.searchpartyd
+2025-06-17 11:24:07,794 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.softwareupdateservicesd
+2025-06-17 11:24:07,803 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.softwareupdateservicesd
+2025-06-17 11:24:07,803 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.ind
+2025-06-17 11:24:07,813 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.ind
+2025-06-17 11:24:07,813 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.amsengagementd
+2025-06-17 11:24:07,822 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.amsengagementd
+2025-06-17 11:24:07,823 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: networkserviceproxy
+2025-06-17 11:24:07,832 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/networkserviceproxy
+2025-06-17 11:24:07,832 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.coreidv.coreidvd
+2025-06-17 11:24:07,841 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.coreidv.coreidvd
+2025-06-17 11:24:07,841 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: swtransparencyd
+2025-06-17 11:24:07,850 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/swtransparencyd
+2025-06-17 11:24:07,851 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.protectedcloudstorage.protectedcloudkeysyncing
+2025-06-17 11:24:07,859 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.protectedcloudstorage.protectedcloudkeysyncing
+2025-06-17 11:24:07,860 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.itunescloudd
+2025-06-17 11:24:07,869 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.itunescloudd
+2025-06-17 11:24:07,869 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: passwordbreachd
+2025-06-17 11:24:07,878 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name passwordbreachd
+2025-06-17 11:24:07,879 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.rtcreportingd
+2025-06-17 11:24:07,888 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.rtcreportingd
+2025-06-17 11:24:07,888 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.kbd
+2025-06-17 11:24:07,898 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.kbd
+2025-06-17 11:24:07,898 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.securityd
+2025-06-17 11:24:07,907 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.securityd
+2025-06-17 11:24:07,908 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.sbd
+2025-06-17 11:24:07,913 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+2025-06-17 11:24:07,913 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: familycircled
+2025-06-17 11:24:07,916 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/FamilyCircle.framework/familycircled
+2025-06-17 11:24:07,916 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.syncdefaultsd
+2025-06-17 11:24:07,925 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.syncdefaultsd
+2025-06-17 11:24:07,926 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.gamed
+2025-06-17 11:24:07,935 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.gamed
+2025-06-17 11:24:07,935 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.assistant.assistantd
+2025-06-17 11:24:07,944 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.assistant.assistantd
+2025-06-17 11:24:07,945 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.bird
+2025-06-17 11:24:07,954 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.bird
+2025-06-17 11:24:07,954 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.amsaccountsd
+2025-06-17 11:24:07,963 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.amsaccountsd
+2025-06-17 11:24:07,964 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.backupd
+2025-06-17 11:24:07,973 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.backupd
+2025-06-17 11:24:07,973 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.seld
+2025-06-17 11:24:07,982 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.seld
+2025-06-17 11:24:07,983 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.transparencyd
+2025-06-17 11:24:07,992 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.transparencyd
+2025-06-17 11:24:07,992 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: ndoagent
+2025-06-17 11:24:07,996 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
+2025-06-17 11:24:07,996 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.icloud.fmfd
+2025-06-17 11:24:08,005 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.icloud.fmfd
+2025-06-17 11:24:08,005 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.cloudphotod
+2025-06-17 11:24:08,014 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.cloudphotod
+2025-06-17 11:24:08,015 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.bluetoothd
+2025-06-17 11:24:08,024 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.bluetoothd
+2025-06-17 11:24:08,024 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: TilesService
+2025-06-17 11:24:08,029 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/CoreLocationTiles.framework/XPCServices/TilesService.xpc/TilesService
+2025-06-17 11:24:08,029 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: asd
+2025-06-17 11:24:08,038 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/asd
+2025-06-17 11:24:08,038 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.sharingd
+2025-06-17 11:24:08,047 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.sharingd
+2025-06-17 11:24:08,047 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.businessservicesd
+2025-06-17 11:24:08,056 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.businessservicesd
+2025-06-17 11:24:08,057 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.videosubscriptionsd
+2025-06-17 11:24:08,066 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.videosubscriptionsd
+2025-06-17 11:24:08,066 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.UsageTrackingAgent
+2025-06-17 11:24:08,075 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.UsageTrackingAgent
+2025-06-17 11:24:08,076 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.sociallayerd
+2025-06-17 11:24:08,085 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.sociallayerd
+2025-06-17 11:24:08,085 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.imagent
+2025-06-17 11:24:08,095 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.imagent
+2025-06-17 11:24:08,095 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.parsecd
+2025-06-17 11:24:08,104 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.parsecd
+2025-06-17 11:24:08,104 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.icloud.findmydeviced
+2025-06-17 11:24:08,114 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.icloud.findmydeviced
+2025-06-17 11:24:08,114 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.MobileAccessoryUpdater
+2025-06-17 11:24:08,123 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.MobileAccessoryUpdater
+2025-06-17 11:24:08,123 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.ap.promotedcontentd
+2025-06-17 11:24:08,126 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Application Support/com.apple.ap.promotedcontentd/SFS/fpdi/com.apple.ap.promotedcontentd
+2025-06-17 11:24:08,126 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.tipsd
+2025-06-17 11:24:08,128 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/DDEFD013-B9AE-480D-8EB1-B97431906E32/Library/SyncedPreferences/com.apple.kvs/ChangeTokens/NoEncryption/Shortcuts/com.apple.tipsd
+2025-06-17 11:24:08,128 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.icloud.fmflocatord
+2025-06-17 11:24:08,137 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.icloud.fmflocatord
+2025-06-17 11:24:08,138 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: adprivacyd
+2025-06-17 11:24:08,147 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/adprivacyd
+2025-06-17 11:24:08,147 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.willowd
+2025-06-17 11:24:08,156 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.willowd
+2025-06-17 11:24:08,157 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.dataaccessd
+2025-06-17 11:24:08,166 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.dataaccessd
+2025-06-17 11:24:08,166 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: managedappdistributiond
+2025-06-17 11:24:08,169 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/Frameworks/ManagedAppDistribution.framework/Support/managedappdistributiond
+2025-06-17 11:24:08,169 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.bluetoothuserd
+2025-06-17 11:24:08,178 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.bluetoothuserd
+2025-06-17 11:24:08,179 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.suggestd
+2025-06-17 11:24:08,188 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.suggestd
+2025-06-17 11:24:08,188 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: maild
+2025-06-17 11:24:08,192 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/EmailDaemon.framework/maild
+2025-06-17 11:24:08,192 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.findmy.findmylocated
+2025-06-17 11:24:08,201 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.findmy.findmylocated
+2025-06-17 11:24:08,201 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: SiriSuggestionsBookkeepingServic
+2025-06-17 11:24:08,210 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name SiriSuggestionsBookkeepingServic
+2025-06-17 11:24:08,211 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.attributionkitd
+2025-06-17 11:24:08,220 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.attributionkitd
+2025-06-17 11:24:08,220 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.parsec-fbf
+2025-06-17 11:24:08,229 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.parsec-fbf
+2025-06-17 11:24:08,230 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.mapspushd
+2025-06-17 11:24:08,239 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.mapspushd
+2025-06-17 11:24:08,239 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: AuthenticationServicesAgent
+2025-06-17 11:24:08,248 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name AuthenticationServicesAgent
+2025-06-17 11:24:08,249 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.healthd
+2025-06-17 11:24:08,258 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.healthd
+2025-06-17 11:24:08,258 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.voicebankingd
+2025-06-17 11:24:08,268 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.voicebankingd
+2025-06-17 11:24:08,268 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.StatusKitAgent
+2025-06-17 11:24:08,277 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.StatusKitAgent
+2025-06-17 11:24:08,278 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.mediasetupd
+2025-06-17 11:24:08,287 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.mediasetupd
+2025-06-17 11:24:08,287 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.accessibility.heard
+2025-06-17 11:24:08,296 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.accessibility.heard
+2025-06-17 11:24:08,297 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.remindd
+2025-06-17 11:24:08,306 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.remindd
+2025-06-17 11:24:08,306 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.accounts.dom
+2025-06-17 11:24:08,311 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/AccountsDaemon.framework/XPCServices/com.apple.accounts.dom.xpc/com.apple.accounts.dom
+2025-06-17 11:24:08,311 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: seserviced
+2025-06-17 11:24:08,320 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/seserviced
+2025-06-17 11:24:08,320 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: rapportd
+2025-06-17 11:24:08,329 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/rapportd
+2025-06-17 11:24:08,329 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: replicatord
+2025-06-17 11:24:08,334 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/ReplicatorCore.framework/Support/replicatord
+2025-06-17 11:24:08,334 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.Safari.SafeBrowsing.Service
+2025-06-17 11:24:08,337 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+2025-06-17 11:24:08,337 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: EnforcementService
+2025-06-17 11:24:08,340 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/Frameworks/AppTrackingTransparency.framework/XPCServices/EnforcementService.xpc/EnforcementService
+2025-06-17 11:24:08,340 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: mediaplaybackd
+2025-06-17 11:24:08,349 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/mediaplaybackd
+2025-06-17 11:24:08,349 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.Safari.SearchHelper
+2025-06-17 11:24:08,358 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.Safari.SearchHelper
+2025-06-17 11:24:08,359 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: appinstallationmetricsd
+2025-06-17 11:24:08,364 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/AppInstallationMetrics.framework/Support/appinstallationmetricsd
+2025-06-17 11:24:08,364 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: griddatad
+2025-06-17 11:24:08,373 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/griddatad
+2025-06-17 11:24:08,373 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.OTACrashCopier
+2025-06-17 11:24:08,382 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.OTACrashCopier
+2025-06-17 11:24:08,383 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.biomesyncd
+2025-06-17 11:24:08,392 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.biomesyncd
+2025-06-17 11:24:08,392 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: powerdatad
+2025-06-17 11:24:08,402 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/powerdatad
+2025-06-17 11:24:08,402 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.online-auth-agent
+2025-06-17 11:24:08,410 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.online-auth-agent
+2025-06-17 11:24:08,411 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.triald
+2025-06-17 11:24:08,420 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.triald (However, the process name might have been truncated in the database)
+2025-06-17 11:24:08,421 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.duetexpertd
+2025-06-17 11:24:08,430 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.duetexpertd
+2025-06-17 11:24:08,430 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.betaenrollmentd
+2025-06-17 11:24:08,439 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.betaenrollmentd
+2025-06-17 11:24:08,440 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.mobile.softwareupdated
+2025-06-17 11:24:08,449 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.mobile.softwareupdated
+2025-06-17 11:24:08,449 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.MobileSoftwareUpdate.U
+2025-06-17 11:24:08,458 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.MobileSoftwareUpdate.U
+2025-06-17 11:24:08,459 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: remoted
+2025-06-17 11:24:08,468 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/remoted
+2025-06-17 11:24:08,468 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: remotepairingdeviced
+2025-06-17 11:24:08,477 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/remotepairingdeviced
+2025-06-17 11:24:08,477 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: DTServiceHub
+2025-06-17 11:24:08,480 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/DVTInstrumentsFoundation.framework/DTServiceHub
+2025-06-17 11:24:08,480 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: bootpd
+2025-06-17 11:24:08,489 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/bootpd
+2025-06-17 11:24:08,489 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: misd
+2025-06-17 11:24:08,498 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/misd
+2025-06-17 11:24:08,498 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: launchd
+2025-06-17 11:24:08,498 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/sbin/launchd
+2025-06-17 11:24:08,498 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: dhcp6d
+2025-06-17 11:24:08,506 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/dhcp6d
+2025-06-17 11:24:08,506 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.coreduetd
+2025-06-17 11:24:08,515 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.coreduetd
+2025-06-17 11:24:08,516 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.mobileassetd.client.auto-asset-client
+2025-06-17 11:24:08,525 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.mobileassetd.client.auto-asset-client
+2025-06-17 11:24:08,525 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: CategoriesService
+2025-06-17 11:24:08,531 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/Categories.framework/XPCServices/CategoriesService.xpc/CategoriesService
+2025-06-17 11:24:08,531 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: ACCFeatureAudioProductService
+2025-06-17 11:24:08,536 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/CoreAccessoriesFeatures.framework/XPCServices/ACCFeatureAudioProductService.xpc/ACCFeatureAudioProductService
+2025-06-17 11:24:08,536 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.pipelined
+2025-06-17 11:24:08,545 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.pipelined
+2025-06-17 11:24:08,545 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.icloud.imtransferagent
+2025-06-17 11:24:08,554 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.icloud.imtransferagent
+2025-06-17 11:24:08,555 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: healthappd
+2025-06-17 11:24:08,558 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/HealthPluginHost.framework/healthappd
+2025-06-17 11:24:08,558 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: newsd
+2025-06-17 11:24:08,561 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/NewsDaemon.framework/newsd
+2025-06-17 11:24:08,561 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: clipserviced
+2025-06-17 11:24:08,564 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/ClipServices.framework/clipserviced
+2025-06-17 11:24:08,565 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: configd
+2025-06-17 11:24:08,573 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/configd
+2025-06-17 11:24:08,573 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: captiveagent
+2025-06-17 11:24:08,582 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/captiveagent
+2025-06-17 11:24:08,582 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: webprivacyd
+2025-06-17 11:24:08,585 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/WebPrivacy.framework/webprivacyd
+2025-06-17 11:24:08,585 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: wifivelocityd
+2025-06-17 11:24:08,595 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/wifivelocityd
+2025-06-17 11:24:08,595 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: AssetCacheLocatorService
+2025-06-17 11:24:08,600 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/AssetCacheServices.framework/XPCServices/AssetCacheLocatorService.xpc/AssetCacheLocatorService
+2025-06-17 11:24:08,600 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: privatecloudcomputed
+2025-06-17 11:24:08,605 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/PrivateCloudCompute.framework/privatecloudcomputed.app/privatecloudcomputed
+2025-06-17 11:24:08,605 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: safetyalertsd
+2025-06-17 11:24:08,614 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/safetyalertsd
+2025-06-17 11:24:08,614 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.donotdisturbd
+2025-06-17 11:24:08,623 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.donotdisturbd
+2025-06-17 11:24:08,624 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: IMDMessageServicesAgent
+2025-06-17 11:24:08,629 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/System/Library/PrivateFrameworks/IMDMessageServices.framework/XPCServices/IMDMessageServicesAgent.xpc/IMDMessageServicesAgent
+2025-06-17 11:24:08,629 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: wifid
+2025-06-17 11:24:08,638 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/sbin/wifid
+2025-06-17 11:24:08,638 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: avconferenced
+2025-06-17 11:24:08,647 - mvt.ios.modules.fs.net_netusage - DEBUG - Located at /Users/simcoehall/Desktop/Merec/usr/libexec/avconferenced
+2025-06-17 11:24:08,647 - mvt.ios.modules.fs.net_netusage - DEBUG - Found process with no Bundle ID with name: com.apple.photoanalysisd
+2025-06-17 11:24:08,656 - mvt.ios.modules.fs.net_netusage - WARNING - Could not find the binary associated with the process with name com.apple.photoanalysisd
+2025-06-17 11:24:08,678 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 3. Previous process at "2025-03-06 18:29:58.929496" (com.apple.purplebuddy)
+2025-06-17 11:24:08,679 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 8. Previous process at "2025-03-06 18:30:16.278440" (com.apple.nsurlsessiond)
+2025-06-17 11:24:08,679 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 51. Previous process at "2025-03-06 18:30:54.597094" (com.apple.findmy.FindMyWidgetIntentsPeople)
+2025-06-17 11:24:08,680 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 69. Previous process at "2025-03-06 18:33:03.891423" (ndoagent)
+2025-06-17 11:24:08,680 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 96. Previous process at "2025-03-06 18:33:33.827072" (adprivacyd)
+2025-06-17 11:24:08,680 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 101. Previous process at "2025-03-06 18:33:52.203341" (com.apple.dataaccessd)
+2025-06-17 11:24:08,681 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 102. Previous process at "2025-03-06 18:33:52.203341" (com.apple.dataaccessd)
+2025-06-17 11:24:08,681 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 116. Previous process at "2025-03-13 19:21:26.753786" (com.apple.voicebankingd)
+2025-06-17 11:24:08,682 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 128. Previous process at "2025-04-07 15:00:48.504940" (com.apple.Health)
+2025-06-17 11:24:08,682 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 129. Previous process at "2025-04-07 15:00:48.504940" (com.apple.Health)
+2025-06-17 11:24:08,682 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 132. Previous process at "2025-04-07 15:26:51.762602" (replicatord)
+2025-06-17 11:24:08,683 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 134. Previous process at "2025-04-07 15:29:01.694527" (com.ubercab.UberClient)
+2025-06-17 11:24:08,683 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 137. Previous process at "2025-04-07 15:29:07.923792" (EnforcementService)
+2025-06-17 11:24:08,684 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 141. Previous process at "2025-04-15 18:00:11.239533" (com.apple.Safari.SearchHelper)
+2025-06-17 11:24:08,684 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 156. Previous process at "2025-04-15 20:15:30.136751" (remotepairingdeviced)
+2025-06-17 11:24:08,684 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 157. Previous process at "2025-04-15 20:15:30.136751" (remotepairingdeviced)
+2025-06-17 11:24:08,685 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 158. Previous process at "2025-04-15 20:15:30.136751" (remotepairingdeviced)
+2025-06-17 11:24:08,685 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 160. Previous process at "2025-04-15 20:15:48.167050" (DTServiceHub)
+2025-06-17 11:24:08,685 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 165. Previous process at "2025-04-17 20:25:11.416133" (dhcp6d)
+2025-06-17 11:24:08,686 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 166. Previous process at "2025-04-17 20:25:11.416133" (dhcp6d)
+2025-06-17 11:24:08,686 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 167. Previous process at "2025-04-17 20:25:11.416133" (dhcp6d)
+2025-06-17 11:24:08,687 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 172. Previous process at "2025-04-22 15:09:03.694472" (com.aircanada.csp.aciclient)
+2025-06-17 11:24:08,687 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 173. Previous process at "2025-04-22 15:09:03.694472" (com.aircanada.csp.aciclient)
+2025-06-17 11:24:08,687 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 177. Previous process at "2025-04-24 13:27:49.728040" (com.apple.SafariViewService)
+2025-06-17 11:24:08,688 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 182. Previous process at "2025-04-24 16:10:18.359947" (ACCFeatureAudioProductService)
+2025-06-17 11:24:08,688 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 184. Previous process at "2025-04-26 17:25:19.560881" (com.apple.springboard)
+2025-06-17 11:24:08,689 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 192. Previous process at "2025-04-26 18:28:56.593522" (healthappd)
+2025-06-17 11:24:08,689 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 193. Previous process at "2025-04-26 18:28:56.593522" (healthappd)
+2025-06-17 11:24:08,689 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 205. Previous process at "2025-04-27 15:27:58.083999" (privatecloudcomputed)
+2025-06-17 11:24:08,690 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 207. Previous process at "2025-04-27 15:28:01.299696" (safetyalertsd)
+2025-06-17 11:24:08,690 - mvt.ios.modules.fs.net_netusage - INFO - Missing process 212. Previous process at "2025-04-28 19:30:37.088729" (avconferenced)
+2025-06-17 11:24:08,696 - mvt.ios.modules.fs.net_netusage - INFO - The Netusage module produced no detections!
+2025-06-17 11:24:08,703 - mvt.ios.modules.fs.analytics - INFO - Running module Analytics...
+2025-06-17 11:24:08,704 - mvt.ios.modules.fs.analytics - INFO - Found Analytics database file at path: /Users/simcoehall/Desktop/Merec/private/var/Keychains/Analytics/sos_analytics.db
+2025-06-17 11:24:08,705 - mvt.ios.modules.fs.analytics - ERROR - Error in running extraction from module Analytics: no such table: soft_failures
+Traceback (most recent call last):
+  File "/Users/simcoehall/mvt-env/lib/python3.13/site-packages/mvt/ios/modules/fs/analytics.py", line 86, in _extract_analytics_data
+    cur.execute(
+    ~~~~~~~~~~~^
+        """
+        ^^^
+    ...<14 lines>...
+    """
+    ^^^
+    )
+    ^
+sqlite3.OperationalError: no such table: all_events
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/simcoehall/mvt-env/lib/python3.13/site-packages/mvt/common/module.py", line 171, in run_module
+    exec_or_profile("module.run()", globals(), locals())
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/simcoehall/mvt-env/lib/python3.13/site-packages/mvt/common/utils.py", line 263, in exec_or_profile
+    exec(module, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 1, in <module>
+  File "/Users/simcoehall/mvt-env/lib/python3.13/site-packages/mvt/ios/modules/fs/analytics.py", line 146, in run
+    self.process_analytics_dbs()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/simcoehall/mvt-env/lib/python3.13/site-packages/mvt/ios/modules/fs/analytics.py", line 143, in process_analytics_dbs
+    self._extract_analytics_data()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/simcoehall/mvt-env/lib/python3.13/site-packages/mvt/ios/modules/fs/analytics.py", line 105, in _extract_analytics_data
+    cur.execute(
+    ~~~~~~~~~~~^
+        """
+        ^^^
+    ...<9 lines>...
+    """
+    ^^^
+    )
+    ^
+sqlite3.OperationalError: no such table: soft_failures
+2025-06-17 11:24:08,709 - mvt.ios.modules.fs.analytics_ios_versions - INFO - Running module AnalyticsIOSVersions...
+2025-06-17 11:24:08,709 - mvt.ios.modules.fs.analytics_ios_versions - INFO - Found Analytics database file at path: /Users/simcoehall/Desktop/Merec/private/var/Keychains/Analytics/sos_analytics.db
+2025-06-17 11:24:08,710 - mvt.ios.modules.fs.analytics_ios_versions - ERROR - Error in running extraction from module AnalyticsIOSVersions: no such table: soft_failures
+Traceback (most recent call last):
+  File "/Users/simcoehall/mvt-env/lib/python3.13/site-packages/mvt/ios/modules/fs/analytics.py", line 86, in _extract_analytics_data
+    cur.execute(
+    ~~~~~~~~~~~^
+        """
+        ^^^
+    ...<14 lines>...
+    """
+    ^^^
+    )
+    ^
+sqlite3.OperationalError: no such table: all_events
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/simcoehall/mvt-env/lib/python3.13/site-packages/mvt/common/module.py", line 171, in run_module
+    exec_or_profile("module.run()", globals(), locals())
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/simcoehall/mvt-env/lib/python3.13/site-packages/mvt/common/utils.py", line 263, in exec_or_profile
+    exec(module, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 1, in <module>
+  File "/Users/simcoehall/mvt-env/lib/python3.13/site-packages/mvt/ios/modules/fs/analytics_ios_versions.py", line 49, in run
+    anl.process_analytics_dbs()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/simcoehall/mvt-env/lib/python3.13/site-packages/mvt/ios/modules/fs/analytics.py", line 143, in process_analytics_dbs
+    self._extract_analytics_data()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/simcoehall/mvt-env/lib/python3.13/site-packages/mvt/ios/modules/fs/analytics.py", line 105, in _extract_analytics_data
+    cur.execute(
+    ~~~~~~~~~~~^
+        """
+        ^^^
+    ...<9 lines>...
+    """
+    ^^^
+    )
+    ^
+sqlite3.OperationalError: no such table: soft_failures
+2025-06-17 11:24:08,713 - mvt.ios.modules.fs.safari_favicon - INFO - Running module SafariFavicon...
+2025-06-17 11:24:08,722 - mvt.ios.modules.fs.safari_favicon - INFO - Found Safari favicon cache database at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/3459BCBD-031A-44DD-B765-57F6FEFD6EF2/Library/Image Cache/Favicons/Favicons.db
+2025-06-17 11:24:08,723 - mvt.ios.modules.fs.safari_favicon - INFO - Extracted a total of 0 favicon records
+2025-06-17 11:24:08,724 - mvt.ios.modules.fs.safari_favicon - INFO - The SafariFavicon module produced no detections!
+2025-06-17 11:24:08,724 - mvt.ios.modules.fs.shutdownlog - INFO - Running module ShutdownLog...
+2025-06-17 11:24:08,725 - mvt.ios.modules.fs.shutdownlog - INFO - Found shutdown log at path: /Users/simcoehall/Desktop/Merec/private/var/db/diagnostics/shutdown.log
+2025-06-17 11:24:08,733 - mvt.ios.modules.fs.shutdownlog - INFO - The ShutdownLog module produced no detections!
+2025-06-17 11:24:08,734 - mvt.ios.modules.fs.version_history - INFO - Running module IOSVersionHistory...
+2025-06-17 11:24:08,735 - mvt.ios.modules.fs.version_history - INFO - The IOSVersionHistory module does not support checking for indicators
+2025-06-17 11:24:08,735 - mvt.ios.modules.fs.webkit_indexeddb - INFO - Running module WebkitIndexedDB...
+2025-06-17 11:24:08,738 - mvt.ios.modules.fs.webkit_indexeddb - INFO - Extracted a total of 0 WebKit IndexedDB records
+2025-06-17 11:24:08,738 - mvt.ios.modules.fs.webkit_indexeddb - INFO - The WebkitIndexedDB module produced no detections!
+2025-06-17 11:24:08,738 - mvt.ios.modules.fs.webkit_localstorage - INFO - Running module WebkitLocalStorage...
+2025-06-17 11:24:08,740 - mvt.ios.modules.fs.webkit_localstorage - INFO - Extracted a total of 0 records from WebKit Local Storages
+2025-06-17 11:24:08,741 - mvt.ios.modules.fs.webkit_localstorage - INFO - The WebkitLocalStorage module produced no detections!
+2025-06-17 11:24:08,741 - mvt.ios.modules.fs.webkit_safariviewservice - INFO - Running module WebkitSafariViewService...
+2025-06-17 11:24:08,755 - mvt.ios.modules.fs.webkit_safariviewservice - INFO - Extracted a total of 0 records from WebKit SafariViewService WebsiteData
+2025-06-17 11:24:08,755 - mvt.ios.modules.fs.webkit_safariviewservice - INFO - The WebkitSafariViewService module produced no detections!
+2025-06-17 11:24:08,756 - mvt.ios.modules.mixed.calls - INFO - Running module Calls...
+2025-06-17 11:24:08,758 - mvt.ios.modules.mixed.calls - INFO - Found Calls database at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/CallHistoryDB/CallHistory.storedata
+2025-06-17 11:24:08,758 - mvt.ios.modules.mixed.calls - INFO - Extracted a total of 14 calls
+2025-06-17 11:24:08,758 - mvt.ios.modules.mixed.calls - INFO - The Calls module does not support checking for indicators
+2025-06-17 11:24:08,759 - mvt.ios.modules.mixed.chrome_favicon - INFO - Running module ChromeFavicon...
+2025-06-17 11:24:08,762 - mvt.ios.modules.mixed.chrome_favicon - INFO - There might be no data to extract by module ChromeFavicon: unable to find the module's database file
+2025-06-17 11:24:08,762 - mvt.ios.modules.mixed.chrome_history - INFO - Running module ChromeHistory...
+2025-06-17 11:24:08,764 - mvt.ios.modules.mixed.chrome_history - INFO - There might be no data to extract by module ChromeHistory: unable to find the module's database file
+2025-06-17 11:24:08,764 - mvt.ios.modules.mixed.contacts - INFO - Running module Contacts...
+2025-06-17 11:24:08,767 - mvt.ios.modules.mixed.contacts - INFO - Found Contacts database at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/AddressBook/AddressBook.sqlitedb
+2025-06-17 11:24:08,768 - mvt.ios.modules.mixed.contacts - INFO - Extracted a total of 46 contacts from the address book
+2025-06-17 11:24:08,768 - mvt.ios.modules.mixed.contacts - INFO - The Contacts module does not support checking for indicators
+2025-06-17 11:24:08,769 - mvt.ios.modules.mixed.firefox_favicon - INFO - Running module FirefoxFavicon...
+2025-06-17 11:24:08,770 - mvt.ios.modules.mixed.firefox_favicon - INFO - There might be no data to extract by module FirefoxFavicon: unable to find the module's database file
+2025-06-17 11:24:08,770 - mvt.ios.modules.mixed.firefox_history - INFO - Running module FirefoxHistory...
+2025-06-17 11:24:08,770 - mvt.ios.modules.mixed.firefox_history - INFO - There might be no data to extract by module FirefoxHistory: unable to find the module's database file
+2025-06-17 11:24:08,771 - mvt.ios.modules.mixed.idstatuscache - INFO - Running module IDStatusCache...
+2025-06-17 11:24:08,772 - mvt.ios.modules.mixed.idstatuscache - INFO - Found IDStatusCache plist at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/IdentityServices/idstatuscache.plist
+2025-06-17 11:24:08,774 - mvt.ios.modules.mixed.idstatuscache - INFO - Extracted a total of 130 ID Status Cache entries
+2025-06-17 11:24:08,775 - mvt.ios.modules.mixed.idstatuscache - INFO - The IDStatusCache module produced no detections!
+2025-06-17 11:24:08,777 - mvt.ios.modules.mixed.interactionc - INFO - Running module InteractionC...
+2025-06-17 11:24:08,778 - mvt.ios.modules.mixed.interactionc - INFO - Found InteractionC database at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/CoreDuet/People/interactionC.db
+2025-06-17 11:24:08,779 - mvt.ios.modules.mixed.interactionc - INFO - Extracted a total of 14 InteractionC events
+2025-06-17 11:24:08,779 - mvt.ios.modules.mixed.interactionc - INFO - The InteractionC module does not support checking for indicators
+2025-06-17 11:24:08,780 - mvt.ios.modules.mixed.locationd - INFO - Running module LocationdClients...
+2025-06-17 11:24:08,781 - mvt.ios.modules.mixed.locationd - INFO - Found Locationd Clients plist at path: /Users/simcoehall/Desktop/Merec/private/var/root/Library/Caches/locationd/clients.plist
+2025-06-17 11:24:08,783 - mvt.ios.modules.mixed.locationd - INFO - Extracted a total of 83 Locationd Clients entries
+2025-06-17 11:24:08,788 - mvt.ios.modules.mixed.locationd - INFO - The LocationdClients module produced no detections!
+2025-06-17 11:24:08,790 - mvt.ios.modules.mixed.osanalytics_addaily - INFO - Running module OSAnalyticsADDaily...
+2025-06-17 11:24:08,791 - mvt.ios.modules.mixed.osanalytics_addaily - INFO - Found com.apple.osanalytics.addaily plist at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Preferences/com.apple.osanalytics.addaily.plist
+2025-06-17 11:24:08,793 - mvt.ios.modules.mixed.osanalytics_addaily - INFO - Extracted a total of 178 com.apple.osanalytics.addaily entries between 2025-03-06 18:29:58 and 2025-04-28 20:44:26
+2025-06-17 11:24:08,798 - mvt.ios.modules.mixed.osanalytics_addaily - INFO - The OSAnalyticsADDaily module produced no detections!
+2025-06-17 11:24:08,800 - mvt.ios.modules.mixed.net_datausage - INFO - Running module Datausage...
+2025-06-17 11:24:08,801 - mvt.ios.modules.mixed.net_datausage - INFO - Found DataUsage database at path: /Users/simcoehall/Desktop/Merec/private/var/wireless/Library/Databases/DataUsage.sqlite
+2025-06-17 11:24:08,812 - mvt.ios.modules.mixed.net_datausage - INFO - Extracted information on 844 processes
+2025-06-17 11:24:08,813 - mvt.ios.modules.mixed.net_datausage - INFO - Extended search for suspicious processes ...
+2025-06-17 11:24:22,060 - mvt.ios.modules.mixed.net_datausage - DEBUG - Found process with no Bundle ID with name: CumulativeUsageTracker
+2025-06-17 11:24:22,069 - mvt.ios.modules.mixed.net_datausage - WARNING - Could not find the binary associated with the process with name CumulativeUsageTracker
+2025-06-17 11:24:22,069 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.camera at 2025-03-06 17:00:02.725400
+2025-06-17 11:24:22,070 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.AppStore at 2025-03-06 17:00:02.727087
+2025-06-17 11:24:22,070 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.Preferences at 2025-03-06 17:00:02.727565
+2025-06-17 11:24:22,071 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.mobilesafari at 2025-03-06 17:00:02.727688
+2025-06-17 11:24:22,071 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.mobileslideshow at 2025-03-06 17:00:02.727953
+2025-06-17 11:24:22,072 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.mobilephone at 2025-03-06 17:00:02.728044
+2025-06-17 11:24:22,072 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.NanoUniverse.AegirProxyApp at 2025-03-06 17:00:02.728119
+2025-06-17 11:24:22,073 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.iBooks at 2025-03-13 19:13:52.925090
+2025-06-17 11:24:22,073 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.MobileStore at 2025-03-13 19:13:52.929586
+2025-06-17 11:24:22,074 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.tips at 2025-03-13 19:13:52.929797
+2025-06-17 11:24:22,074 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.podcasts at 2025-03-13 19:13:52.929918
+2025-06-17 11:24:22,075 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.Bridge at 2025-03-13 19:13:52.930204
+2025-06-17 11:24:22,075 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.mobilemail at 2025-03-13 19:13:52.930488
+2025-06-17 11:24:22,075 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.mobilenotes at 2025-03-13 19:13:52.930546
+2025-06-17 11:24:22,076 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.mobiletimer at 2025-03-13 19:13:52.930621
+2025-06-17 11:24:22,076 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.facetime at 2025-03-13 19:13:52.930776
+2025-06-17 11:24:22,077 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.compass at 2025-03-13 19:13:52.930835
+2025-06-17 11:24:22,077 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.Passbook at 2025-03-13 19:13:52.931293
+2025-06-17 11:24:22,078 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.Home at 2025-03-13 19:13:52.931465
+2025-06-17 11:24:22,078 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.Health at 2025-03-13 19:13:52.931539
+2025-06-17 11:24:22,079 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.tv at 2025-03-13 19:13:52.931784
+2025-06-17 11:24:22,079 - mvt.ios.modules.mixed.net_datausage - INFO - Found process entry in ZPROCESS but not in ZLIVEUSAGE: 1FB47783-A2FE-47D9-B256-DF50EF44BBA4/com.apple.VoiceMemos at 2025-03-13 19:13:52.932431
+2025-06-17 11:24:22,121 - mvt.ios.modules.mixed.net_datausage - INFO - The Datausage module produced no detections!
+2025-06-17 11:24:22,138 - mvt.ios.modules.mixed.safari_browserstate - INFO - Running module SafariBrowserState...
+2025-06-17 11:24:22,139 - mvt.ios.modules.mixed.safari_browserstate - INFO - Found Safari browser state database at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Safari/BrowserState.db
+2025-06-17 11:24:22,144 - mvt.ios.modules.mixed.safari_browserstate - INFO - Extracted a total of 0 tab records and 0 session history entries
+2025-06-17 11:24:22,144 - mvt.ios.modules.mixed.safari_browserstate - INFO - The SafariBrowserState module produced no detections!
+2025-06-17 11:24:22,145 - mvt.ios.modules.mixed.safari_history - INFO - Running module SafariHistory...
+2025-06-17 11:24:22,145 - mvt.ios.modules.mixed.safari_history - INFO - Found Safari history database at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Safari/History.db
+2025-06-17 11:24:22,148 - mvt.ios.modules.mixed.safari_history - INFO - Extracted a total of 0 history records
+2025-06-17 11:24:22,148 - mvt.ios.modules.mixed.safari_history - INFO - The SafariHistory module produced no detections!
+2025-06-17 11:24:22,149 - mvt.ios.modules.mixed.tcc - INFO - Running module TCC...
+2025-06-17 11:24:22,149 - mvt.ios.modules.mixed.tcc - INFO - Found TCC database at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/TCC/TCC.db
+2025-06-17 11:24:22,150 - mvt.ios.modules.mixed.tcc - INFO - Found client "com.duosecurity.DuoMobile" with access allowed to camera on 2025-04-24 16:02:00.000000 by user_consent
+2025-06-17 11:24:22,151 - mvt.ios.modules.mixed.tcc - INFO - Extracted a total of 42 TCC items
+2025-06-17 11:24:22,152 - mvt.ios.modules.mixed.tcc - INFO - The TCC module produced no detections!
+2025-06-17 11:24:22,153 - mvt.ios.modules.mixed.sms - INFO - Running module SMS...
+2025-06-17 11:24:22,154 - mvt.ios.modules.mixed.sms - INFO - Found SMS database at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/SMS/sms.db
+2025-06-17 11:24:22,157 - mvt.ios.modules.mixed.sms - INFO - Extracted a total of 70 SMS messages
+2025-06-17 11:24:22,158 - mvt.ios.modules.mixed.sms - INFO - The SMS module produced no detections!
+2025-06-17 11:24:22,163 - mvt.ios.modules.mixed.sms_attachments - INFO - Running module SMSAttachments...
+2025-06-17 11:24:22,164 - mvt.ios.modules.mixed.sms_attachments - INFO - Found SMS database at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/SMS/sms.db
+2025-06-17 11:24:22,164 - mvt.ios.modules.mixed.sms_attachments - INFO - Extracted a total of 2 SMS attachments
+2025-06-17 11:24:22,165 - mvt.ios.modules.mixed.sms_attachments - INFO - The SMSAttachments module produced no detections!
+2025-06-17 11:24:22,165 - mvt.ios.modules.mixed.webkit_resource_load_statistics - INFO - Running module WebkitResourceLoadStatistics...
+2025-06-17 11:24:22,168 - mvt.ios.modules.mixed.webkit_resource_load_statistics - INFO - Found WebKit ResourceLoadStatistics observations.db file at path /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/3459BCBD-031A-44DD-B765-57F6FEFD6EF2/Library/WebKit/WebsiteData/ResourceLoadStatistics/observations.db
+2025-06-17 11:24:22,169 - mvt.ios.modules.mixed.webkit_resource_load_statistics - INFO - Extracted a total of 14 records from /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/3459BCBD-031A-44DD-B765-57F6FEFD6EF2/Library/WebKit/WebsiteData/ResourceLoadStatistics/observations.db
+2025-06-17 11:24:22,170 - mvt.ios.modules.mixed.webkit_resource_load_statistics - INFO - Found WebKit ResourceLoadStatistics observations.db file at path /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/5666F4A5-EAB9-4A12-BC50-257AEBEAED66/Library/WebKit/WebsiteData/ResourceLoadStatistics/observations.db
+2025-06-17 11:24:22,171 - mvt.ios.modules.mixed.webkit_resource_load_statistics - INFO - Extracted a total of 22 records from /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/5666F4A5-EAB9-4A12-BC50-257AEBEAED66/Library/WebKit/WebsiteData/ResourceLoadStatistics/observations.db
+2025-06-17 11:24:22,171 - mvt.ios.modules.mixed.webkit_resource_load_statistics - INFO - Found WebKit ResourceLoadStatistics observations.db file at path /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/3B9C57E4-C679-4F12-8E1D-4C977CF8169A/Library/WebKit/WebsiteData/ResourceLoadStatistics/observations.db
+2025-06-17 11:24:22,173 - mvt.ios.modules.mixed.webkit_resource_load_statistics - INFO - Extracted a total of 22 records from /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/3B9C57E4-C679-4F12-8E1D-4C977CF8169A/Library/WebKit/WebsiteData/ResourceLoadStatistics/observations.db
+2025-06-17 11:24:22,173 - mvt.ios.modules.mixed.webkit_resource_load_statistics - INFO - Found WebKit ResourceLoadStatistics observations.db file at path /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/E92DFAB3-D745-4D39-BC1F-76D55AC0CAFE/Library/WebKit/WebsiteData/ResourceLoadStatistics/observations.db
+2025-06-17 11:24:22,174 - mvt.ios.modules.mixed.webkit_resource_load_statistics - INFO - Extracted a total of 22 records from /Users/simcoehall/Desktop/Merec/private/var/mobile/Containers/Data/Application/E92DFAB3-D745-4D39-BC1F-76D55AC0CAFE/Library/WebKit/WebsiteData/ResourceLoadStatistics/observations.db
+2025-06-17 11:24:22,193 - mvt.ios.modules.mixed.webkit_resource_load_statistics - INFO - The WebkitResourceLoadStatistics module produced no detections!
+2025-06-17 11:24:22,194 - mvt.ios.modules.mixed.webkit_session_resource_log - INFO - Running module WebkitSessionResourceLog...
+2025-06-17 11:24:22,197 - mvt.ios.modules.mixed.webkit_session_resource_log - INFO - Extracted records from 0 Safari browsing session resource logs
+2025-06-17 11:24:22,197 - mvt.ios.modules.mixed.webkit_session_resource_log - INFO - The WebkitSessionResourceLog module produced no detections!
+2025-06-17 11:24:22,198 - mvt.ios.modules.mixed.whatsapp - INFO - Running module Whatsapp...
+2025-06-17 11:24:22,199 - mvt.ios.modules.mixed.whatsapp - INFO - There might be no data to extract by module Whatsapp: unable to find the module's database file
+2025-06-17 11:24:22,199 - mvt.ios.modules.mixed.shortcuts - INFO - Running module Shortcuts...
+2025-06-17 11:24:22,201 - mvt.ios.modules.mixed.shortcuts - INFO - Found Shortcuts database at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Shortcuts/Shortcuts.sqlite
+2025-06-17 11:24:22,205 - mvt.ios.modules.mixed.shortcuts - INFO - Extracted a total of 5 Shortcuts
+2025-06-17 11:24:22,205 - mvt.ios.modules.mixed.shortcuts - INFO - The Shortcuts module produced no detections!
+2025-06-17 11:24:22,206 - mvt.ios.modules.mixed.applications - INFO - Running module Applications...
+2025-06-17 11:24:22,212 - mvt.ios.modules.mixed.applications - INFO - Extracted a total of 7 applications
+2025-06-17 11:24:22,214 - mvt.ios.modules.mixed.applications - INFO - The Applications module produced no detections!
+2025-06-17 11:24:22,215 - mvt.ios.modules.mixed.calendar - INFO - Running module Calendar...
+2025-06-17 11:24:22,217 - mvt.ios.modules.mixed.calendar - INFO - Found calendar database at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Calendar/Calendar.sqlitedb
+2025-06-17 11:24:22,219 - mvt.ios.modules.mixed.calendar - INFO - Extracted a total of 83 calendar items
+2025-06-17 11:24:22,220 - mvt.ios.modules.mixed.calendar - INFO - The Calendar module produced no detections!
+2025-06-17 11:24:22,222 - mvt.ios.modules.mixed.global_preferences - INFO - Running module GlobalPreferences...
+2025-06-17 11:24:22,224 - mvt.ios.modules.mixed.global_preferences - INFO - Found Global Preference database at path: /Users/simcoehall/Desktop/Merec/private/var/mobile/Library/Preferences/.GlobalPreferences.plist
+2025-06-17 11:24:22,262 - mvt.ios.modules.mixed.global_preferences - INFO - Extracted a total of 13 Global Preferences
+2025-06-17 11:24:22,262 - mvt.ios.modules.mixed.global_preferences - INFO - The GlobalPreferences module produced no detections!
+2025-06-17 11:24:23,471 - mvt.ios.cmd_check_fs - WARNING - [bold]NOTE: Detected indicators of compromise[/bold]. Only expert review can confirm if the detected indicators are signs of an attack.
+
+Please seek reputable expert help if you have serious concerns about a possible spyware attack. Such support is available to human rights defenders and civil society through Amnesty International's Security Lab at https://securitylab.amnesty.org/get-help/?c=mvt
+2025-06-17 11:24:23,472 - mvt - WARNING - The analysis of the iOS filesystem produced 1 detections!
